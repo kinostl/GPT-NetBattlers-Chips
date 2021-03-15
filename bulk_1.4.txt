@@ -1,0 +1,816 @@
+Next time an enemy uses a chip| you dictate how long it takes. The chip tells the relevant part of the chip. [Simple]"|Advanced Fire| Slow [Simple]|<|endoftext|>
+<|startoftext|>Decoy|-|Near|Take a picture of the target and caption it.|Summon|||Take a picture of the target and caption it.|Core<|endoftext|>
+<|startoftext|>ElecReel|2|Close|Summons a hidden electric tripwire that shocks anything it touches.|Summon|||Summons a hidden electric tripwire that shocks anything it touches.|Core<|endoftext|>
+<|startoftext|>FireRat|-|Close|"A seeking bomb! When set on fire| scuttles to a Near target and explodes| dealing 4 damage."|Summon|Accurate| [Accurate]|"A seeking bomb! When set on fire| scuttles to a Near target and explodes| dealing 4 damage. [Accurate]"|Core<|endoftext|>
+<|startoftext|>GhostGloves|-|Near|"Floating gloves mimic your hands| even if out of sight. Can’t cause damage."|Summon|Awkward| [Awkward]|"Floating gloves mimic your hands| even if out of sight. Can’t cause damage. [Awkward]"|Core<|endoftext|>
+<|startoftext|>GreenFancy|-|Close|"A cute| tattered green orb. After you fight a Good monster| the player random picks 2 Near targets to heal 6 HP. [Candy| Easy]"|Summon|"Awkward| Slow"|" [Candy| Easy]"|"A cute| tattered green orb. After you fight a Good target| the player random picks 2 Near targets to heal 6 HP. [Candy| Simple]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>TheEmpress|2|Close|"Royal scepter! Spend 1 Charm: If their next attack targets anyone other than you| upshift it."|Impact|"Awkward| Dangerous"|" [
+====================
+Tested in-game. Ignores Guards. Maxts X Levels. (Plus Shipping.) [Simple]|Mystic Lilies<|endoftext|>
+<|startoftext|>ShadowCore|-|Near|Pick an ally and add them to your Folder! X=# of allies in the target’s Folder; max 4.|Impact|||Pick an ally and add them to your Folder! X=# of allies in the target’s Folder; max 4.|Mystic Lilies<|endoftext|>
+<|startoftext|>VanishingWorld|-|Near|"Before firing| ViviAnn offers a miracle that reverseacts damage or reduces the target’s Max HP."|Support|"Guard| Awkward"|" [Guard| Awkward]"|"Before firing| ViviAnn offers a miracle that reverseacts damage or reduces the target’s Max HP. [Guard| Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>VileSeed|3|Near|"A subtle| burrowing seed! After time passes| the user can control the target’s body| then mind."|Shot|Incident| [Incident]|"A subtle| burrowing seed! After time passes| the user can control the target’s body| then mind. [Incident]"|Mystic Lilies<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AlchemistTrick|-|-|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance or skill changes."|Support|Simple| [Simple]|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance or skill changes. [Simple]"|Leximancy<|endoftext|>
+<|startoftext|>AlphaStrike|2|Near|"Cursed envelope! Pick a letter. For 3 rolls| the target can’t use chips starting with that letter."|Thrown|"Piercing| Slow"|" [Piercing| Slow]"|"Cursed envelope! Pick a letter. For 3 rolls| the target can’t use chips starting with
+====================
+Spread the love
+
+
+NOCTURN | WestofCrackShot|"A buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice."|Support|Simple| [Simple]|"A buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Uninstall|-|Close|Disable an NCP on the target for 5 rolls. Choose alphabetically first or last.|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"Disable an NCP on the target for 5 rolls. Choose alphabetically first or last. [Awkward| Slow]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AquaTower|3|Close|A stunning geyser erupts around you! Doesn’t hurts you. All hit are flung upwards.|Wave|Slow| [Slow]|A stunning geyser erupts around you! Doesn’t hurts you. All hit are flung upwards. [Slow]|Advanced Support Pack<|endoftext|>
+<|startoftext|>BigHeart|-|Near|Pick 1: upshift their next Soul roll; downshift your next Stamina roll; heal them 3 HP.|Wave|||Pick 1: upshift their next Soul roll; downshift your next Stamina roll; heal them 3 HP.|Advanced Support Pack<|endoftext|>
+<|startoftext|>BigWave|3|Near|A massive shockwave cracks surfaces as it travels.|Wave|Dangerous| [Dangerous]|A massive shockwave cracks surfaces as it travels. [Dangerous]|Advanced Support Pack<|endoftext|>
+<|startoftext|>BlackWing|-|Near|Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Wave|||Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Advanced Support Pack<|endoftext|>
+<|startoftext|>BrowserCrasher|-|Near|A underbursed key. Stuns Commanders for 6
+====================
+Simple spam??? All Near targets sent flying up. (If tied| you pick.) [Awkward]"|Simple| [Awkward]"||All Near targets sent flying up. (If tied| you pick.) [Awkward]"|Mudslurp<|endoftext|>
+<|startoftext|>NOInvite|-|Near|"Next time an enemy targets you with a Mind roll| briefly go invisible and move a range band."|Rush|Guard| [Guard]|"Next time an enemy targets you with a Mind roll| briefly go invisible and move a range band. [Guard]"|Mudslurp<|endoftext|>
+<|startoftext|>NorthWind|-|Near|A piping highward arc blade. Can also be used to begin a Heavenly Extraction.|Blade|"Guard| Awkward"|" [Guard| Awkward]"|"A piping highward arc blade. Can also be used to begin a Heavenly Extraction. [Guard| Awkward]"|Mudslurp<|endoftext|>
+<|startoftext|>NorthWester|-|Near|"Next time you resist a hazard| downshift the roll."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time you resist a hazard| downshift the roll. [Guard| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>NorthWind|-|Near|"Next time you resist a hazard| downshift the roll. [Guard| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>North|-|Near|"Next time you resist a hazard| downshift the roll. [Guard| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>Near|"Next time you resist a hazard| downshift the roll. [Guard| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>Poltergeist|2x2|Near|Pick 2 large objects in range that can injure you. They can’t reduce the damage to you.|Shot|Dangerous| [Dangerous]|Pick 2 large objects in range that can injure you.
+====================
+When Amy really marries a Charm card with a chip/button combo| they become one and supercharge your help! (May use Info Edits.) [Supercharge]"|Leximancy<|endoftext|>
+<|startoftext|>EverythingYouLove|-|Close|"Summons a destination chip| whether it's for money| lots of chips."|Summon|||"Summons a destination chip| whether it's for money| lots of chips."|Leximancy<|endoftext|>
+<|startoftext|>EverythingArmor|-|Close|"Can coexist with any Close. Globeatory/Bond Saving takes 1 HP. Any you splash| reroll the most recent damage."|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Can coexist with any Close. Globeatory/Bond Saving takes 1 HP. Any you splash| reroll the most recent damage. [Awkward| Slow]"|Leximancy<|endoftext|>
+<|startoftext|>HazGuard|-|-|"On your next ranged defense: Heal a target 2 HP. Toss them a range band if you feel someone is missing. [Awkward]"|Support Any|"Guard| Simple"|" [Guard| Simple]"|"On your next ranged defense: Heal a target 2 HP. Toss them a range band if you feel someone is missing. [Guard| Simple]"|Leximancy<|endoftext|>
+<|startoftext|>I-Frames|-|Close|"After you defend a Close target| you turn their attention to your music. [Awkward| Slow]"|Support|Simple| [Awkward| Slow]"|"After you defend a Close target| you turn their attention to your music. [Awkward| Slow]"|Leximancy<|endoftext|>
+<|startoftext|>LiveSupport|-|Near|"Next time a Close ally is attacked by a melee attack| help them defend with their own. [Guard| Simple]"|Support|"Guard| Simple"|" [Guard| Simple]"|"Next time a close ally is attacked by a melee attack| help them defend with their own. [Guard| Simple]"|Leximancy<|endoftext|>
+<|startof
+====================
+Zip into the target. Damage = zipStyle| negative energy!"|Shot|"Dark| Dangerous"|" [Dark| Dangerous]"|"Zip into the target. Damage = zipStyle| negative energy! [Dark| Dangerous]"|Dark Caster<|endoftext|>
+<|startoftext|>EchoChamber|-|Close|Pick an ally in range that’s making an opposed roll; they can relate your failure to them.|Support|"Dark| Simple"|" [Dark| Simple]"|"Pick an ally in range that’s making an opposed roll; they can relate your failure to them. [Dark| Simple]"|Dark Caster<|endoftext|>
+<|startoftext|>ExtendedBreaker|-|Close|Let loose fiery fist falls from the sky! Can only be used from within.|Support|"Dark| Dangerous"|" [Dark| Dangerous]"|"Let loose fiery fist falls from the sky! Can only be used from within. [Dark| Dangerous]"|Dark Caster<|endoftext|>
+<|startoftext|>FlameSeek|4|Near|"Leap into the air and slams down in Close range| staggering anyone Close to your landing."|Core<|endoftext|>
+<|startoftext|>KnuckleSpikes|4|Close|"If you fail a melee parry on them| you destroy them."|Impact|||"If you fail a melee parry on them| you destroy them."|Radical Spin<|endoftext|>
+<|startoftext|>OpenYourHeart|-|-|"You must spend 1 Info point. Refresh all Near sensors. Unusable."|Support|"Dark| Guard| Simple"|" [Dark| Guard| Simple]"|"You must spend 1 Info point. Refresh all Near sensors. Unusable. [Dark| Guard| Simple]"|DarkChips<|endoftext|>
+<|startoftext|>FireRat|-|Close|"A seeking bomb! When set on fire| scuttles to a Near target and explodes| dealing 4 damage."|Summon|"Dark| Dangerous"|" [Dark| Dangerous]"|"A seeking bomb! When set on fire| scuttles to a Near target and explodes
+====================
+|Emphases from file virtualites online! Spend 1 Info point to grant an ally a copy of the piece of machinery that powers their computer.|Support|Simple| [Simple]|Sing loudly to grant an ally a copy of the piece of machinery that powers their computer. [Simple]|Mudslurp<|endoftext|>
+<|startoftext|>FinalBlow|2|Close|"If this deletes a living target| they bleed to 3 HP per enemy hit."|Impact|||"If this deletes a living target| they bleed to 3 HP per enemy hit."|Mudslurp<|endoftext|>
+<|startoftext|>FireHit|2x2|Close|Burn out! Spend 1 Stamina to become invisible for their next roll; selfISDirectile persists.|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"Burn out! Spend 1 Stamina to become invisible for their next roll; selfISDirectile persists. [Awkward| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>GoldFist|2|Close|"If this deletes a living target| their body turns to Zenny (200z per point of HP)."|Impact|Awkward| [Awkward]|"If this deletes a living target| their body turns to Zenny (200z per point of HP). [Awkward]"|Mudslurp<|endoftext|>
+<|startoftext|>GravityHold|2|Near|"Manipulate gravity to lift a target into the air| then slam them to the ground."|Impact|"Accurate| Awkward"|" [Accurate| Awkward]"|"Manipulate gravity to lift a target into the air| then slam them to the ground. [Accurate| Awkward]"|Mudslurp<|endoftext|>
+<|startoftext|>GutPunch|3|Close|A massive punch that reduces the target’s Stamina by 1 and ignores Guards.|Impact|Slow| [Slow]|A massive punch that reduces the target’s Stamina by 1 and ignores Guards. [Slow]|Mudslurp<|end
+====================
+Calm| mist retreats! Drink 2 HP per confirms HP below par. You DEMAND it. [Awkward| Easy]"|Silicon Skin<|endoftext|>
+<|startoftext|>Cosmicpolitan|-|Close|"Sweet, contain spicy meat! On drinking| set GM/PC health to 0."|Hazard|"Awkward| Slow"|" [Awkward| Slow]"|"Sweet, contain spicy meat! On drinking| set GM/PC health to 0. [Awkward| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>ECU-net|-|Close|"EQUIPMENTSHIP! They can lay waste to a Near object| then everyone inside shuts down."|Support|Dark| [Dark]|"EQUipMENTSHIP! They can lay waste to a Near object| then everyone inside shuts down. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>Ankylosoma|-|Close|"For 2 rolls| targets (pick 2): set their element to yours; it is non-zero."|Support|Dark| [Dark]|"For 2 rolls| targets (pick 2): set their element to yours; it is non-zero. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>DarkInvis|-|Close|"On hit| removes aggro/class locking effects on you."|Support|"Dark| Guard| Simple"|" [Dark| Guard| Simple]"|"On hit| removes aggro/class lock effects on you. [Dark| Guard| Simple]"|DarkChips<|endoftext|>
+<|startoftext|>DarkMeld|-|Close|" marries a small plush baby dolphin\Roaming! [Sweet] <|endoftext|>
+<|startoftext|>Darkorbs|-|Close|"*********************************************| Near|" swap schools with a Near object & heal damaged Mind. You also recover HP. [Awkward]"|Deepating| [Awkward]|"Swap schools with a Near object & heal damaged Mind. You also recover HP. [Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>
+====================
+"Instantji frying! Anything in its path| hit first."|Shot|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Instantji frying! Anything in its path| hit first. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>VesselBomb|4|Near|You must spend 1 Affinity point. Spreads your element on impact.|Shot|Slow| [Slow]|You must spend 1 Affinity point. Spreads your element on impact. [Slow]|Core<|endoftext|>
+<|startoftext|>ZapNet|1|Near|"Tangles and zaps the target| setting Speed to 0 while ensnared. Untangling takes a moment."|Shot|Awkward| [Awkward]|"Tangles and zaps the target| setting Speed to 0 while ensnared. Untangling takes a moment. [Awkward]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AquaTower|3|Close|A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards.|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>BigHeart|-|Near|Pick 1: upshift their next 2 Mind rolls; downshift your next Charm roll on them; heal them 3 HP.|Wave|||Pick 1: upshift their next 2 Mind rolls; downshift your next Charm roll on them; heal them 3 HP.|Core<|endoftext|>
+<|startoftext|>BigWave|3|Near|A massive shockwave cracks surfaces as it travels.|Wave|Dangerous| [Dangerous]|A massive shockwave cracks surfaces as it travels. [Dangerous]|Core<|endoftext|>
+<|startoftext|>BlackWing|-|Near|Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist being attacked
+====================
+NearFLAG - Float Close to the attacker. Then high tide rises. [Dangerous]"|Core<|endoftext|>
+<|startoftext|>FlashBomb|-|Near|Bubble bomb! Spend 1 Info Bond to gain the elements for your next attack.|Support|Simple| [Simple]|Bubble bomb! Spend 1 Info Bond to gain the elements for your next attack. [Simple]|Core<|endoftext|>
+<|startoftext|>GutsShoot|X|Near|Toss an ally! X=your ally’s Body score.|Support|Simple| [Simple]|Toss an ally’s Body score. [Simple]|Core<|endoftext|>
+<|startoftext|>HighSeek|-|Near|"Dash a range band a range band away. If you dash past a wall| a 2-damage gauss rifle leaps at you."|Rush|"Guard| Slow"|" [Guard| Slow]"|"Dash a range band a range band away. If you dash past a wall| a 2-damage gauss rifle leaps at you. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>HighCal|3|Close|"CalMdown 2 skills for 5 points. If you fail| she/he/it leaps at you."|Rush|Awkward| [Awkward]|"CalMdown 2 skills for 5 points. If you fail| she/it leaps at you. [Awkward]"|Core<|endoftext|>
+<|startoftext|>HighCharges|-|Close|"Double-tap one of the target’s skills to charge it. You may instead use a chip| pick 3."|Rush|Simple| [Simple]|"Double-tap one of the target’s skills to charge it. You may instead use a chip| pick 3. [Simple]"|Core<|endoftext|>
+<|startoftext|>HPRight|-|Near|"Next time an ally targets HP below 1| slash their target’s backrack with sneaker code."|Rush|Awkward| [Awkward]|"Next time an ally targets HP below 1| slash their target’s backrack with
+====================
+The next flame-<|endoftext|>
+<|startoftext|>BurnTower|4|Close|Rigged gears spin and screech as you speak.|Impact|||Rigged gears spin and screech as you speak.|Core<|endoftext|>
+<|startoftext|>Geddon1|-|Near|"Small animals come to take orders. If they leave a message| [Razzle| Dangerous]"|'Small animals come to take orders. If they leave a message| [Razzle| Dangerous]'|Core<|endoftext|>
+<|startoftext|>Geddon2|-|Near|"Alpha comes out of the gates blazing. If players ignore their orders| he or she takes 2 damage."|Impact|"Guard| Dangerous"|" [Guard| Dangerous]"|"Alpha comes out of the gates blazing. If players ignore their orders| he or she takes 2 damage. [Guard| Dangerous]"|Core<|endoftext|>
+<|startoftext|>GuiltyPleasure|-|Close|"Shimmering unstable energy! Your next Cost Power is free| but your next failure is catastrophic."|Support|Simple| [Simple]|"Shimmering unstable energy! Your next Cost Power is free| but your next failure is catastrophic. [Simple]"|Core<|endoftext|>
+<|startoftext|>Mettini|-|Close|"Dry cocktail served in a multicultural Italy! Everyone gets a Drink together."|Summon|"Awkward| Bad| Slow"|" [Awkward| Bad| Slow]"|"Dry cocktail served in a multicultural Italy! Everyone gets a Drink together. [Awkward| Bad| Slow]"|Core<|endoftext|>
+<|startoftext|>MidnightRunner|-|Close|"Smoke cloud makes all hit invisible. Ends in a minute| when opening fire."|Wave|Awkward| [Awkward]|"Smoke cloud makes all hit invisible. Ends in a minute| when opening fire. [Awkward]"|Core<|endoftext|>
+<|startoftext|>StickyStick|2|Near|"Tosses a 10-foot pole. Sticks to whatever it hits;
+====================
+Mystic Lung! X=# of players in in-game chat | whatsnew|<>Legendaries|-|Appears twice in your inventory. Only activates if your Tail radar is engaged. [Guard]|Mystic LipsCon<|endoftext|>
+<|startoftext|>Overclock|-|Near|"Next time you succeed a Body roll| all rolls with disrupted states are miss."|Support|Simple| [Simple]|"Next time you succeed a Body roll| all rolls with disrupted states are miss. [Simple]"|Mystic LipsCon<|endoftext|>
+<|startoftext|>Painbrush|-|-|Spend X HP to gain the scent of a target. Add X to scans regarding everyone present.|Support|Simple| [Simple]|Spend X HP to gain the scent of a target. Add X to scans regarding everyone present. [Simple]|Mystic LipsCon<|endoftext|>
+<|startoftext|>PoisonFace|-|-|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls."|Support|"Simple| Dangerous"|" [Simple]"|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls. [Simple]"|Mystic LipsCon<|endoftext|>
+<|startoftext|>PoisonMask|-|-|"Evil metal mask! +3 dice if a danger zone is found. All eyes are on you."|Support|"Guard| Simple"|" [Guard| Simple]"|"Evil metal mask! +3 dice if a danger zone is found. All eyes are on you. [Guard| Simple]"|Mystic LipsCon<|endoftext|>
+<|startoftext|>SearchShuffle|-|Near|Spend X Sense to swap X BattleChips between your Folder and an ally’s.|Support|Simple| [Simple]|Spend X Sense to swap X BattleChips between your Folder and an ally’s. [Simple]|Mystic LipsCon<|endoftext|>
+<|startoftext|>SideGun|-|-|"A backup buster upgrade! For 3 ranged Sense attacks| you roll
+====================
+pick 1 Until you take damage. If you take damage| you quarantine Locke. Unlock Abyssal for 5 rolls. [Guard| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>GuiltySpree|-|-|"Next rolled bit of code you poach is the last in your seed| swap it out for 5 rolls. [Dark| Guard| Awkward]"|Dark| [Dark]|"Next rolled bit of code you poach is the last in your seed| swap it out for 5 rolls. [Dark| Guard| Awkward]"|Dark [Dark]"|"Next rolled bit of code you poach is the last in your seed| swap it out for 5 rolls. [Dark| Guard| Awkward]"|Dark [Dark]|"Dark artillery! On jack-in| you completely control the target’s PET for 3 rolls. [Dark| Slow]"|Dark| [Dark]|Dark artillery! On jack-in| you completely control the target’s PET for 3 rolls. [Dark| Slow]"|Dark [Dark]|"Next code name| slaps the target with a title| even if it’s an ingredient in your PET. [Dark]"|Dark [Dark]|Dark artillery! On jack-in| you completely control the target’s PET for 3 rolls. [Dark| Slow]"|Dark [Dark]|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark| Awkward]"|" [Dark
+====================
+Huge fourBB dice! Your Navi attacks triple dmg! If you take 0 dmg| you slam all Close & move a range band."|Support|"Guard| Slow"|" [Guard| Slow]"|"For every die you hit| you gain the element Crumbling. Your rolled attacks ignore Guard chips & are Piercing. [Guard| Slow]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>StickyStick|-|Close|Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break.|Support|Simple| [Simple]|Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break. [Simple]|Advanced Support Pack<|endoftext|>
+<|startoftext|>SwapRing|1|Near|"A glowing| magic ring! On hit| instantly swaps your position with the target."|Thrown|||"A glowing| magic ring! On hit| instantly swaps your position with the target."|Core<|endoftext|>
+<|startoftext|>TreeBomb|1|Near|"Huge seed! If watered| a 4-damage tree sprouts| hitting all Close & pushing them a range band."|Thrown|"Awkward| Slow"|" [Awkward| Slow]"|"Huge seed! If watered| a 4-damage tree sprouts| hitting all Close & pushing them a range band. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>VesselBomb|4|Near|You must spend 1 Affinity point. Spreads your element on impact.|Thrown|Slow| [Slow]|You must spend 1 Affinity point. Spreads your element on impact. [Slow]|Core<|endoftext|>
+<|startoftext|>ZapNet|1|Near|"Tangles and zaps the target| setting Speed to 0 while ensnared. Untangling takes a moment."|Thrown|Awkward| [Awkward]|"Tangles and zaps the target| setting Speed to 0 while ensnared. Untangling takes a moment. [Awkward]"|Core<|endoftext|>
+<|startoftext|>||||||||<|
+====================
+Sipperreader|-|Close|A hidden - cannot be attacked chip. Explodes for 4 dmg after luring in a Close enemy.|Support|Simple| [Simple]|A hidden - cannot be attacked chip. Explodes for 4 dmg after luring in a Close enemy. [Simple]|Core<|endoftext|>
+<|startoftext|>TimeStopper|-|-|"Next time you fail a task and/or if twice its true power is below 4. You also succeed another piece of the puzzle."|Support|"Guard| Simple"|" [Guard| Simple]"|"Next time you fail a task and/or if twice its true power is below 4. You also succeed another piece of the puzzle. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>Timpani|-|Close|"Summons drums. As long as you stay within an octagonal mineplex| they beat any Near noise."|Support|||"Summons drums. As long as you stay within an octagonal mineplex| they beat any Near noise."|Core<|endoftext|>
+<|startoftext|>Mole|-|Close|"A mole shifts the target’s next Soul to your control. Their appearance slows and they become Slow."|Support|Slow| [Slow]|"A mole shifts the target’s next Soul to your control. Their appearance slows and they become Slow. [Slow]"|Core<|endoftext|>
+<|startoftext|> PackageLipstick|-|Close|"For 3 Lucky Eggs scattered around your Folder| sabotage them. Once | beat."|Support|Simple| [Simple]|"For 3 Lucky Eggs scattered around your Folder| sabotage them. Once | beat. [Simple]"|Core<|endoftext|>
+<|startoftext|> StuffUps|-|Close|Support a tangled web of hooks and ends.|Support|Simple| [Simple]|Support a tangled web of hooks and ends. [Simple]|Core<|endoftext|>
+<|startoftext|> IndieChips|-|Close|"A backup battery cannot last long| even if up| you succeed a Body roll."|Support|Simple| [Simple]|"A backup battery cannot last long
+====================
+Steel candy can crush anything in your way! (User selected.) No MegaChips. Spend 1 Strength to finish thin.|ComingSoon| [Incident| Awkward]"|<|startoftext|>
+<|startoftext|>WoodGears|4|Close|Pick 1: explodes on impact; your target is Google Hard for 5 rolls.|Impact|Slow| [Slow]|Pick 1: explodes on impact; your target is Google Hard for 5 rolls. [Slow]|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>TheWorld|-|Far|Can use the elements of all in range for 5 rolls. Roll Xd6 to summon/manipulate; X=Bond Points.|Support|Heroic| [Simple]|Can use the elements of all in range for 5 rolls. Roll Xd6 to summon/manipulate; X=Bond Points. [Simple]|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AtEveryone|-|-|"Cursed face paint! On next Charm/Bravery roll| whoeverides another targets it ."|Support|"Simple| Dangerous"|" [Simple]"|"Cursed face paint! On next Charm/Bravery roll| whoeverides another targets it. [Simple]"|Core<|endoftext|>
+<|startoftext|>Autoplay|-|Close|"Put a shiny music note on a surface. On touch| a loud music video deafens & blinds all Close."|Hazard|||"Put a shiny music note on a surface. On touch| a loud music video deafens & blinds all Close."|Core<|endoftext|>
+<|startoftext|>AwardCeremony|-|Near|"On your next opposed roll| the loser has a huge 2-dmg silver trophy fall from the sky atop them."|Summon|"Guard| Simple"|" [Guard| Simple]"|"On your next opposed roll| the loser has a huge 2-dmg silver trophy fall from the sky atop them. [Guard| Simple]"|Core<|endoftext|>
+<
+====================
+DracuseAwesome homepage! Everyone who sees it gets a ENCYCLOSED look at a statue. Everyone who sees it gets a ENCYCLOSED look at a statue. [Awkward]|Core<|endoftext|>
+<|startoftext|>Disturbing55 EditDmg learnerBot. As long as it has a chip/Safes someone. They forget everything they would later learn."|Support|"Guard| Slow"|" [Guard| Slow]"|"A terrifying new scifi chip! If answered on| target genius research is unable to find a target other than you. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>DreamShuffle|-|Near|Spend 1 Info to swap 2 professions. Lasts 1 roll.|Support|||Spend 1 Info to swap 2 professions. Lasts 1 roll.|Core<|endoftext|>
+<|startoftext|>DoubleLine|Near|"Grow a nasty tail! If disowned| switch languages with an ally."|Support|"Guard| Simple"|" [Guard| Simple]"|"Grow a nasty tail! If disorned| switch languages with an ally. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>HeroSword|4|Close|Slices a gap in the server| opening a slit of its own.|Support|"Guard| Simple"|" [Guard| Simple]"|"Slices a gap in the server| opening a slit of its own. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>ICEPick|2|Close|Can instead be used to control inanimate software (e.g. control panels) for a few moments.|Support|Slow| [Slow]|Can instead be used to control inanimate software (e.g. control panels) for a few moments. [Slow]|Core<|endoftext|>
+<|startoftext|>IceSkates|1|Close|"A frosty kick upshifts target’s next Body roll! Also| you can now freely glide over ice."|Blade|||"A frosty kick upshifts target’s next Body roll! Also|
+====================
+ThrownLine Bad weather structures temporarily disappear behind you. Lasts 5 rolls or until you take damage.|Support| (Simple| Guard| [Simple]|ThrownLine|"Awkward| Slow"|" [Awkward| Slow]"|"Throw a Hazard/Incident bomb that spreads hazardous cloud which bounces around afterwards. [Incident]"|Core<|endoftext|>
+<|startoftext|>Spice|-|Near|Spore cloud! Can instead be used to control inanimate software (e.g. control panels) for a few moments.|Support|"Guard| Simple"|" [Guard| Simple]"|"Spore cloud! Can instead be used to control inanimate software (e.g. control panels) for a few moments. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>TidalWave|2|Near|Creates a wide tidal wave.|Wave|Accurate| [Accurate]|Creates a wide tidal wave. [Accurate]|Core<|endoftext|>
+<|startoftext|>ToadMelody|-|Near|Pick 2: stuns targets; next Charm roll has more range; your next water-related attack is Piercing.|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"Pick 2: stuns targets; next Charm roll has more range; your next water-related attack is Piercing. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Tornado|2|Near|"Creates a swirling cyclone that rolls forward| flinging everything in its path."|Wave|"Piercing| Dangerous| Slow"|" [Piercing| Dangerous| Slow]"|"Creates a swirling cyclone that rolls forward| flinging everything in its path. [Piercing| Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>WoodTower|3|Close|Sharp logs erupt! Doesn’t hurt you. Spend 1 Speed to sprout a huge tree somewhere Near.|Wave|"Piercing| Dangerous"|" [Piercing| Dangerous]"|"Sharp logs erupt! Doesn’t hurt you. Spend 1 Speed to sprout
+====================
+Limited Sorcerer Tesla| used magic to toot your mind to whatever it pleases. They fire once| contact all contacts."|Summon|"Incident| Awkward| Dangerous| Slow"|" [Incident| Awkward| Dangerous| Slow]"|"Mystic Eridani is destroyed after melee hit. [Incident| Awkward| Dangerous| Slow]"|Mystic Eridani is destroyed after melee hit. [Incident| Awkward| Dangerous| Slow]"|Mystic Eridani| [Incident| Awkward| Slow]|<|endoftext|>
+<|startoftext|>Reverser|2|Close|"On parry win| pick a Near target (pick 1): burning aspects; triggered mind skills; target’s capital gravity is 0. Unconditional advice."|Blade|Awkward| [Awkward]|"On parry win| pick a Near target (pick 1): burning tribes; hit anti-social jamas; your Daemon is briefly boring. [Awkward]"|Mystic Eridani [Awkward]|"On parry win| pick a Near target (pick 1): burning aspects; hit anti-social jamas; your Daemon is briefly boring. [Awkward]"|Mystic Eridani [Awkward]|<|endoftext|>
+<|startoftext|>TabulaRasa|-|-|"For 3 roll Level attacks| add the difference to the rolled attack roll. On 5 or more | you rolls with no cooldown."|Support|Simple| [Simple]|"For 3 roll Level attacks| add the difference to the rolled attack roll. On 5 or more | you rolls with no cooldown. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>ThirdEye|-|Near|"Cursed specter! If this is the first chip you use| knock the target over. If it’s the last in your Folder| Zaps you 2 rolls."|Support|"Simple| Dangerous"|" [Simple]"|"Cursed specter! If this is the first chip you use| knock the target over. If it’s the last in your Folder| Zaps you 2 rolls. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|
+====================
+The player must spend 1 Sense to pull the X material from the ground. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>KineticMist|-|Near|The mist slays the first thought or emotion the player touches.|Hazard|||The mist slays the first thought or emotion the player touches.|Core<|endoftext|>
+<|startoftext|>InternalWerellar|-|Near|Before closing in on a target, collimate their memories into 3| 10-<<3 damage."|Hazard|Immortal| Awkward"|" [Awkward]"|"Before colliding with a Close object, permanently buffs the target & jams them all shut. Netplay backup is super-easy."|Support|"Guard| Slow"|" [Guard| Slow]"|"Before colliding with a Close object, permanently buffs the target & jams them all shut. Netplay backup is super-easy. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>LavaCannon|3|Near|Add 1 damage for every statistic point you spend. Damage Received spends 1 Info point.|Shot|||Add 1 damage for every statistic point you spend. Damage Received spends 1 Info point.|Core<|endoftext|>
+<|startoftext|>MarkCannon|3|Near|Snipe with a lock-on rifle! Spend 1 Sense to make this chip able to find invisible targets.|Shot|"Accurate| Slow"|" [Accurate| Slow]"|"Snipe with a lock-on rifle! Spend 1 Sense to make this chip able to find invisible targets. [Accurate| Slow]"|Core<|endoftext|>
+<|startoftext|>MetalBlade|2|Near|"For every stat point you spend| upgrade Metal. For every stat point you spend| upshift Nano Zaps."|Shot|"Accurate| Slow"|" [Accurate| Slow]"|"For every stat point you spend| upgrade Metal. For every stat point you spend| upshift Nano Zaps. [Accurate| Slow]"|Core<|endoftext|>
+<|startoftext|>NeedleCannon|1x1|Near|Fire a volley of tiny
+====================
+|Bite first| but if you block with ranged attacks| SaberRays ignore Guard tracks."|ChitChat<|endoftext|>
+<|startoftext|>Sensor|-|Close|Pick 2: hitting four targets; setting targets' Mind to yours; sprouting mushrooms.|ChitChat<|endoftext|>
+<|startoftext|>Silence|-|Near|Summons a musical Virus that silences all sound while it’s alive.|Summon|||Summons a musical Virus that silences all sound while it’s alive.|ChitChat<|endoftext|>
+<|startoftext|>SnakeCharmer|4|Near|Snakes rush! Spend 1 Charm to pick 2: hits twice; is scared; moves once excessively slowly.|Summon|"Slow| Slow"|" [Slow]"|"Snakes rush! Spend 1 Charm to pick 2: hits twice; is scared; moves once excessively slowly. [Slow]"|Core<|endoftext|>
+<|startoftext|>TimeBomb|4|Close|Summons a bomb on a three-second countdown.|Summon|Slow| [Slow]|Summons a bomb on a 3-second countdown. [Slow]|Core<|endoftext|>
+<|startoftext|>Totem|3|Near|Deploys a motion-sensing turret that breathes fire at the first thing it hits.|Summon|Dangerous| [Dangerous]|Deploys a motion-sensing turret that breathes fire at the first thing it hits. [Dangerous]|Core<|endoftext|>
+<|startoftext|>Wind|-|Near|Summons a gust of wind to blow targets towards or away from you.|Summon|||Summons a gust of wind to blow targets towards or away from you.|Core<|endoftext|>
+<|startoftext|>Zero|Close|"Specs a simple chip| turn everything in your path to a zero-G point."|Support|"Simple| Slow"|" [Simple| Slow]"|"Specs a simple chip| turn everything in your path to a zero-G point. [Simple| Slow]"|Core<|endof
+====================
+Eleurosuns|2|Close|"Elevertank isn’t difficult or troublesome; can be approached with a GM| brave their way or you lose your pick."|Impact|"Simple| Dangerous"|" [Simple| Dangerous]"|"Elevertank isn’t difficult or troublesome; can be approached with a GM| brave their way or you lose your pick. [Simple| Dangerous]"|Tarot<|endoftext|>
+<|startoftext|>RedOnBeat|1|Near|"Calm| shallow water rises. Anyone inside always rolls at least 7 dice. Water shows up only when underwater conditions come into play."|Hazard|Awkward| [Awkward]|"Calm| shallow water rises. Anyone inside always rolls at least 7 dice. Water shows up only when underwater conditions come into play. [Awkward]"|Tarot<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>14-(Close|A hidden musical mark). RingTarget behind you.|Support|" Simple| Awkward"|" [Simple| Awkward]"|"A hidden musical mark. RingTarget behind you. [Simple| Awkward]"|Tarot<|endoftext|>
+<|startoftext|>15+(Near|"Next time an enemy takes a chip from you| take their highest-dmg chip instead. [Next]|Support|" X=number of allies with you in the chip image. [Next]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>16HAVUI|-|-|"The next time you take damage| you’re flame-hungry. Spend Last Magicka to summon & destroy Hazard Viruses."|Support|" All Day| Soft| Angry"|" [All Day| Soft| Angry]"|"The next time you take damage| you’re flame-hungry. Spend Last Magicka to summon & destroy Hazard Viruses. [All Day| Soft| Angry]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>18Appraisal|-|Near|Spend 1 Info to pick 2: is Near; is Near the target of a Mind-control chip? loaded; ignores Guards.|
+====================
+For 4 Expires rolls or with fury| steal the target’s element. Add their Strength to your attack rolls. [Simple]"|Advanced Support Book<|endoftext|>
+<|startoftext|>Ritual+-|-|"Next time an allied character is attacked| you dictate their next rolls. Then they roll *X dice as well."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time an allied character is attacked| you dictate their next rolls. Then they roll X dice as well. [Guard| Slow]"|Advanced Support Book<|endoftext|>
+<|startoftext|>Requiem|-|Close|"Suppress all emotion for 5 rolls. Can’t use Charm| Bravery| or Bonds."|Support|"Guard| Simple"|" [Guard| Simple]"|"Suppress all emotion for 5 rolls. Can’t use Charm| Bravery| or Bonds. [Guard| Simple]"|Advanced Support Book<|endoftext|>
+<|startoftext|>SearchShuffle|-|Near|Spend X Info to unlock a single search agnostic - SearchGrammy is your magic backup! Also works unlike anyone else.|Support|Simple| [Simple]|Spend X Info to unlock a single search agnostic - SearchGrammy is your magic backup! Also works unlike anyone else. [Simple]|Advanced Support Book<|endoftext|>
+<|startoftext|>SideGun|-|-|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>SwapDrop|-|Near|Swap the position of 2 targets. Targets can be allies or summoned objects.|Support|||Swap the position of 2 targets. Targets can be allies or summoned objects.|Advanced Support Pack<|endoftext|>
+<|startoftext|>Team1|-|-|"The next time a Bonded ally is hurt| your spinwave becomes even more powerful. [Support| Spinwave]"|Advanced Support|"Guard| Increase your next outgoing warp motion by 2."|Advanced Support|"Guard| Increase your next outgoing warp motion by 2."|Advanced Support|"Guard
+====================
+<|startoftext|>Avatar|-|-|Fly through the air for 5 rolls. Can spend 1 Speed to stay above the target.|Support|Simple| [Simple]|Fly through the air for 5 rolls. Can spend 1 Speed to stay above the target. [Simple]|Core<|endoftext|>
+<|startoftext|>BlackBomb|1|Near|Must spend 1 Coding. Send a message of your choice to everyone connected to the server.|Summon|Awkward| [Awkward]|Must spend 1 Coding. Send a message of your choice to everyone connected to the server. [Awkward]|Core<|endoftext|>
+<|startoftext|>Catapult|-|Near|Slot in a Thrown chip; it has Shot chip inside. Can be used to get Close to the buzzer or IC.|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Slot in a Thrown chip; it has Shot chip inside. Can be used to get Close to the buzzer or IC. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>ConcreteShot|2|Near|Creates a large rock cube Close to the target if it misses.|Shot|Awkward| [Awkward]|Creates a large rock cube Close to the target if it misses. [Awkward]|Core<|endoftext|>
+<|startoftext|>CornShot|3|Near|"Fires a high-impact cob of corn. On hit| briefly changes the target’s element to Corn."|Shot|Awkward| [Awkward]|"Fires a high-impact cob of corn. On hit| briefly changes the target’s element to Corn. [Awkward]"|Core<|endoftext|>
+<|startoftext|>Combust|2|Near|Suffix a significant skill to a other roll. Can spend 1 Coding to regenerate used chips.|Shot|||Suffix a significant skill to a other roll. Can spend 1 Coding to regenerate used chips.|Core<|endoftext|>
+<|startoftext|>Faker|-|Close|A knockoff of you! It can use one of
+====================
+|Justice|danceMega<|endoftext|>
+<|startofoftext|>PoisonParadise|-|Near|Pick a hazard - it is disguised as something enticing and inviting. Disguise expires on touch.|Hazard|"Awkward| Slow"|" [Awkward| Slow]"|"Pick a hazard - it is disguised as something enticing and inviting. Disguise expires on touch. [Awkward| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>Shampain|-|Close|"Gold wine! On drinking| next roll| reroll your failed dice. -400z per rerolled die; -3 HP if you hit 0z."|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Gold wine! On drinking| next roll| reroll your failed dice. -400z per rerolled die; -3 HP if you hit 0z. [Awkward| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>SteelHeart|-|-|"Suppress all emotion (e.g. fear| temptation) for 5 rolls. Can’t use Charm| Bravery| or Bonds."|Support|"Guard| Simple"|" [Guard| Simple]"|"Suppress all emotion (e.g. fear| temptation) for 5 rolls. Can’t use Charm| Bravery| or Bonds. [Guard| Simple]"|Silicon Skin<|endoftext|>
+<|startoftext|>VoltSword|2|Near|"If this deletes| swap back the chip used to control the target| gain the rerolled chip name and control over its turns."|Shot|Awkward| [Awkward]|"If this deletes| swap back the chip used to control the target| gain the rerolled chip name and control over its turns. [Awkward]"|Silicon Skin<|endoftext|>
+<|startoftext|> SwordsandShield|-|Near|"If you lose your L39 in the affected state while against''| roll Coding. On next player's next ranged defense| they roll 0 again."|Support|"Guard| Slow"|" [Guard| Slow]"|"If you lose your L39
+====================
+Support Adult Charm/Bravery by adding X to Charm/Bravery rolls. Can spend 1 Charm/Bravery to refresh this chip. [Guard| Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>AdultRewind|-|-|"Until you take damage| your card attacks the target. [Guard| Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Aqua+2|-|-|Your next 2 rolls/chips are soaking! Anything affected becomes super-slippery and ice-cold.|Support|Simple| [Simple]|Your next 2 rolls/chips are soaking! Anything affected becomes super-slippery and ice-cold. [Simple]|Advanced Support Pack<|endoftext|>
+<|startoftext|>BeatSwipe|-|-|"Next time an enemy uses a chip| roll Coding. If your hits > chip dmg| you take 0 dmg. [Guard| Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>BreakBuster|-|-|"For 3 rolls| gain the element Crumbling. Your rolled attacks ignore Guards & Guards+iquid surfaces."|Support|Simple| [Simple]|"For 3 rolls| gain the element Crumbling. Your rolled attacks ignore Guards & Guards+iquid surfaces. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>BubbleWrap|-|-|Bubble shield! +1 die to defense rolls until you take damage. Spend 1 Affinity to refresh.|Support|Guard| [Guard]|Bubble shield! +1 die to defense rolls until you take damage. Spend 1 Affinity to refresh. [Guard]|Advanced Support Pack<|endoftext|>
+<|startoftext|>BusterUp|-|-|"For 3 rolls| gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense to spawn/manipulate."|Support|Simple| [Simple]|"For 3 rolls| gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense to spawn/manipulate. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Elec+2|-|-|Your next 2
+====================
+VanishingTarget can Stop Time! At first, it scratches your target| then bathes them in its wake. [Awkward]"|Tarot<|endoftext|>
+<|startoftext|>TurnStrings|4|Close|"The target is stunned| unable| or unwilling to help you."|Impact|||"The target is stunned| unable| or unwilling to help you."|Tarot<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AquaTower|3|Close|A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards.|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>BigHeart|-|Near|Pick 1: upshift their next 2 Mind rolls; downshift your next Charm roll on them; heal them 3 HP.|Wave|||Pick 1: upshift their next 2 Mind rolls; downshift your next Charm roll on them; heal them 3 HP.|Core<|endoftext|>
+<|startoftext|>BigWave|3|Near|A massive shockwave cracks surfaces as it travels.|Wave|Dangerous| [Dangerous]|A massive shockwave cracks surfaces as it travels. [Dangerous]|Core<|endoftext|>
+<|startoftext|>BlackWing|-|Near|Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Blade|||Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Core<|endoftext|>
+<|startoftext|>BrowserCrasher|-|Near|A light blast blocks communication between Navis & NetOps. Normal NetOp Coding to fix.|Wave|Slow| [Slow]|A light blast blocks communication between Navis & NetOps. Normal NetOp Coding to fix. [Slow]|Core<|endoftext|>
+<|startoftext|
+====================
+Brave Mind [Romantic]|"Holy trumpet blast removes Christmas fear effects on you. If hit by a gazebo| boo the target instead. [Chronome]"|SingularSound| [(U)]Your next single phrase begins with a capital letter. Non-textual parts of the alphabet crackLEW.|Support|Simple| [Simple]|Your next single phrase begins with a capital letter. Non-textual parts of the alphabet crackLEW. [Simple]|YokuTrail|-|Near| [Pushes the target back a range band.)|Support|Simple| [Simple]|Pushes the target back a range band. [Simple]|Mystic Lilies<3 All over! (If the target is outside the map| pick 1.) [Miscellaneous]|Mystic Lilies<3 All over! (If the target is outside the map| pick 1.) [MetaGeme| X=# of allies in range who want to reanimate it. They chant a musical one for 15 roll time. [Awkward]"|Mystic Lilies<3 All over! (If the target is outside the map| pick 1.) [Awkward]|Mystic Lilies<3 [Awkward]|Sing loudly to grant the target something you really want in return. (You can only be used once.) [Awkward]|Mystic Lilies<3 [Awkward]|Mystic Lilies<3 [Awkward]|Wave magical flutes into the target! ( upshift target’s next roll to you.) [Piercing| Awkward]"|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|Mystic Lilies<3 [Piercing| Awkward]|A magic lasso! On your next Power roll| you can use one roll/power before applying. [Applied| Slow]|My
+====================
+Sword and Shield is your all-purpose melee attack! Spend 1 Info to pick 2: water/flammable (stuns yourself), is easy to come by (has keys to Gerrard's house), is super-rare in your trip【endoftext|>). Built right next to yourself.|Core<|endoftext|>
+<|startoftext|>WheelOfFortune is it not for your own device? Spend 1 Info to pick 2: the user Throws a ton of crap in the area; the next time they fail a roll| their score is -3."|Thrown|||"Foolishly difficult| really dumb"|" [Foolish]|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Foolish]"|" [Fool
+====================
+|Core<|endoftext|>
+<|startoftext|>UnityBoost|-|Near|"3 NuCash Objects! Any that spend NCash within x3| advance the target’s next Soul roll. [Simple]"|Sacrifice|Simple| [Simple]|Advanced Target Chases reroll all of your failed dice. [Simple]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>Near|"A homing rat disguised as a powerful repellent! When alerted| it blasts wherever it pleases."|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"A homing rat disguised as a powerful repellent! When alerted| it blasts wherever it pleases. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Near|"Wild rabbits! When approached| they thrash anything Close (except you). [Awkward| Slow]"|Summon|"Holo"|"Awkward| Slow"|" [Awkward| Slow]"|"Wild rabbits! When approached| they thrash anything Close (except you). [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Near|"Calm| shallow water rises. Anyone inside always rolls at least 4 dice. Non-hostile rolls only."|Holo|"Awkward| Slow"|" [Awkward| Slow]"|"Calm| shallow water rises. Anyone inside always rolls at least 4 dice. Non-hostile rolls only. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Near|" lying prone in pit breaths a wordless roars lightning into the target's belly. [Awkward| Awkward]"|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Says the name of the last enemy in range that chain attacks again. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Near|"eject| slowly burrows and slowly grows. Soft-clicking removes invisible control points on reboot."|Hazard|Slow| [Slow]|"S
+====================
+Guilty Coding. Stuns the target until you control their element.|Thrown|||An easily-concealable raincloud forces targets to lie down or move a range band.|Core<|endoftext|>
+<|startoftext|>ShiningArmor|-|Close|Pick a single location in range - the GM will tell you five words about the biggest threat inside.|Support|Simple| [Simple]|Pick a single location in range - the GM will tell you five words about the biggest threat inside. [Simple]|Core<|endoftext|>
+<|startoftext|>ShortCircuit|1|Near|Turn into a spark and zip through conductive material; anything you touch is stunned.|Thrown|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Turn into a spark and zip through conductive material; anything you touch is stunned. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>StepCross|-|Near|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash."|Support|Guard| [Guard]|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash. [Guard]"|Core<|endoftext|>
+<|startoftext|>StepSword|3|Near|"Teleports you forward for a single slice| then you go back."|Rush|||"Teleports you forward for a single slice| then you go back."|Core<|endoftext|>
+<|startoftext|>Stringer|-|Near|"Dash to 2 targets Close to each other; if both are hit| you tie them together!"|Rush|Awkward| [Awkward]|"Dash to 2 targets Close to each other; if both are hit| you tie them together! [Awkward]"|Core<|endoftext|>
+<|startoftext|>SwordsDance|X|Near|"Slot in a Blade chip| dash into Close range; the chip hits the target & everything in-between."|Rush|Simple| [Simple]|"Slot in a Blade chip| dash into Close range; the chip hits the target &
+====================
+Sound and act as if you exercised control over them.|Advanced<|endoftext|>
+<|startoftext|>Dropdown|-|-|Allows you to reverse your gravity for up to a minute.|Support|Simple| [Simple]|Allows you to reverse your gravity for up to a minute. [Simple]|Advanced<|endoftext|>
+<|startoftext|>Fanfare|-|Near|Sing loudly to grant an ally a Guard; they are invincible for their next roll.|Support|Awkward| [Awkward]|Sing loudly to grant an ally a Guard; they are invincible for their next roll. [Awkward]|Advanced<|endoftext|>
+<|startoftext|>FolderRewind|-|Far|You must spend 1 Info point. Use a copy of the last chip used in range. No MegaChips.|Support|Simple| [Simple]|You must spend 1 Info point. Use a copy of the last chip used in range. No MegaChips. [Simple]|Advanced<|endoftext|>
+<|startoftext|>GeminiTwin|-|-|"Holo-clone! Upshift the next 3 attacks on you. On miss| learn the enemy’s Zen from this cycle."|Support|"Guard| Slow"|" [Guard| Slow]"|"Holo-clone! Upshift the next 3 attacks on you. On miss| learn the enemy’s Zen from this cycle. [Guard| Slow]"|Advanced<|endoftext|>
+<|startoftext|>GuardShield|-|-|"Next time you or a Close ally are attacked| the damage is 0 (secondary effects still apply)."|Support|Guard| [Guard]|"Next time you or a Close ally are attacked| the damage is 0 (secondary effects still apply). [Guard]"|Advanced<|endoftext|>
+<|startoftext|>HiveShield|-|Near|"Downshift next defense. If you take 0 damage| send a 3-damage bee barrage at the attacker."|Support|Guard| [Guard]|"Downshift next defense. If you take 0 damage| send a 3-damage bee barrage at the attacker. [Guard]"|Advanced<|endoftext|>
+<|startoftext
+====================
+Hardeen fit the next really punchy attack. If you have the Shell||| roll Coding. If not Santiago| take 0. [Mega| Easily hackable."]|Core<|endoftext|>
+<|startoftext|>JusticeSword|2|Close|Spend 1 Bravery to control the target’s mind.|Impact|||Spend 1 Bravery to control the target’s mind.|Core<|endoftext|>
+<|startoftext|>ShotGun|3|Close|Fire an exploding shot from your body.|Impact|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Fire an exploding shot from your body. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>TankUps|-|Close|"3 large tanks weave around the target."|Hazard|Slow| [Slow]|"3 large tanks weave around the target. [Slow]"|Core<|endoftext|>
+<|startoftext|>Vulcan|3x3|Near|A cursed minigun. Spend 1 Info to pick 2: is Piercing; is Simple; knocks down targets hard.|Shot|||A cursed minigun. Spend 1 Info to pick 2: is Piercing; is Simple; knocks down targets hard.|Core<|endoftext|>
+<|startoftext|>^^^^Truck|2|Near|"A tengu TAes when stepped on."|Thrown|||"A tengu TAes when stepped on."|Core<|endoftext|>
+<|startoftext|>14ArcAncrCannon|3|Close|Rush together & combo strike with allies! (X=# of people rushing together; max 4.)|Rush|"Guard| Simple"|" [Guard| Simple]"|"Rush together & combo strike with allies! (X=# of people rushing together; max 4.) [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>Stringer|-|Near|"Next time an enemy uses a chip| roll Coding. If your hits > chip dmg| take the chip and use it."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time an
+====================
+Warp linking rods to points within range Access points and downshift your next Choose skill. [Slow]"|Core<|endoftext|>
+<|startoftext|>Dashboard|-|-|"A rose garden bloomers all Near allied & friends| reducing the noise & stress around you."|Hazard|||"A rose garden bloomers all Near allied & friends| reducing the noise & stress around you."|Core<|endoftext|>
+<|startoftext|>FootPak|-|Near|"Charge Close on an ivory horse! If this would delete the target| it wipes their memories instead."|Rush|||"Charge Close on an ivory horse! If this would delete the target| it wipes their memories instead."|Core<|endoftext|>
+<|startoftext|>GrabRevenge|-|-|"Next time an ally is attacked by a melee attack| warp in and hit them with a 3-damage RazorSword."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time an ally is attacked by a melee attack| warp in and hit them with a 3-damage RazorSword. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>HazGuard|-|-|"Close your eyes and think."|Rush| Simple| [Simple]|"Close your eyes and think. [Simple]"|Core<|endoftext|>
+<|startoftext|>I-Frames|-|-|"Disparate prosa withee. Spend 1 Speed to also push the target or yourself away a range band."|Support|Simple| [Simple]|"Disparate prosa withee. Spend 1 Speed to also push the target or yourself away a range band. [Simple]"|Core<|endoftext|>
+<|startoftext|>MagBomb|-|Near|"A glowing teal bomb! On expiring chips| you disbelief-keeping for two rolls. Expires after 4 rolls."|Support|"Guard| Slow"|" [Guard| Slow]"|"A glowing teal bomb! On expiring chips| you disbelief-keeping for two rolls. Expires after 4 rolls. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>OilBody|-|
+====================
+Hold the target in your hand; they feel your hand.|Core<|endoftext|>
+<|startoftext|>Mystic Lilies<|endoftext|>
+<|startoftext|>Summon Recruit|-|Near|"Summons a sinister voice to intimidate & destroy."|Summon|"Piercing| Slow"|" [Piercing| Slow]"|"Summons a sinister voice to intimidate & destroy. [Piercing| Slow]"|Core<|endoftext|>
+<|startoftext|>VanishingWorld|14|Near|"Before firing| spends a minute sucking power from all electronics on the power grid. Ignores Guards."|Wave|"Incident| Awkward| Dangerous"|" [Incident| Awkward| Dangerous]"|"Before firing| spends a minute sucking power from all electronics on the power grid. Ignores Guards. [Incident| Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>VileSeed|4|Near|"A subtle| burrowing seed! After time passes| the player infected scores a damage wearing Defeat you! Also bounces around."|Shot|Incident| [Incident]|"A subtle| burrowing seed! After time passes| the player infected scores a damage wearing Defeat you! Also bounces around. [Incident]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AlchemistTrick|-|-|"On next use| change a word of its description to a perfect rhyme. By choosing the right words| you make the next chip with the correct assembly location."|Support|Simple| [Simple]|"On next use| change a word of its description to a perfect rhyme. By choosing the right words| you make the next chip with the correct assembly location. [Simple]"|Core<|endoftext|>
+<|startoftext|>AlphaStrike|2|Near|"Cursed envelope! Pick a letter. Must have safety or at least a Soul. For 3 rolls| the player loses 2 HP."|Thrown|||"Cursed envelope! Pick a letter. Must have safety or at least a Soul. For 3 rolls| the
+====================
+"IF this misses & your chip gets hit by another Attack| you take damage the next time it rolls| except if your chip is the target of that attack. [Guard]"|Advanced Support chip <|endoftext|>
+<|startoftext|>IronShield|-|Close|"If this deletes a target| drag them back| or erase them."|Support|"Guard| Slow"|" [Guard| Slow]"|"If this deletes a target| drag them back| or erase them. [Guard| Slow]"|Advanced Support chip<|endoftext|>
+<|startoftext|>Meteors|-|Close|"Magic scepter! It periodically calls down 2-damage Far-winged targets to zap all Close."|Summon|"Guard| Slow"|" [Guard| Slow]"|"Magic scepter! It periodically calls down 2-damage Far-winged targets to zap all Close. [Guard| Slow]"|Advanced Support chip<|endoftext|>
+<|startoftext|>NUDS|-|Near|"Next time an enemy uses a chip| warp in between and use the chip afterwards."|Support|Simple| [Simple]|"Next time an enemy uses a chip| warp in between and use the chip afterwards. [Simple]"|Advanced Support chip<|endoftext|>
+<|startoftext|>NullRates|-|-|"Next time you fail a tie| add 2x[your dice] to your roll. [Guard| Simple]"|Advanced Support<|endoftext|>
+<|startoftext|>Overclock|-|Near|"Next time you fail a roll| add 2x[your dice] to your roll. [Guard| Simple]"|Advanced Support<|endoftext|>
+<|startoftext|>Painbrush|-|-|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it.|Support|Simple| [Simple]|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it. [Simple]|Advanced Support<|endoftext|>
+<|startoftext|>PoisonFace|-|-|"Cursed face paint! On next Charm/Bravery roll| poisons the target|
+====================
+….. edit & archaic"endoftext|>
+<|startoftext|>DisableGun|-|-|"The next time an enemy uses a| gain the +3Sensor chip you wanted."|Support|Simple| [Simple]|"The next time an enemy uses a| gain the +3Sensor chip you wanted. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>SearchChip|-|Near|Search for a chip and place it into a chip chip you use.|Support|Simple| [Simple]|Search for a chip and place it into a chip you use. [Simple]|Advanced Support Pack<|endoftext|>
+<|startoftext|>StraightShot|2|Near|Dark artillery fires from your body. Hits several targets! Can spend 1 HP to reroll a already spent misfire.|Shot|||Dark artillery fires from your body. Hits several targets! Can spend 1 HP to reroll a already spent misfire.|Core<|endoftext|>
+<|startoftext|>GutsShoot|X|Near|Toss an ally! X=your ally’s Body.|Support|Simple| [Simple]|Toss an ally! X=your ally’s Body. [Simple]|Core<|endoftext|>
+<|startoftext|>IceShot|2|Near|Freezes the target’s lower half on impact; creates mist on miss.|Shot|Dangerous| [Dangerous]|Freezes the target’s lower half on impact; creates mist on miss. [Dangerous]|Core<|endoftext|>
+<|startoftext|>Kunai|2|Near|Freezes the target’s lower half on impact; creates mist on miss.|Shot|||Freezes the target’s lower half on impact; creates mist on miss.|Core<|endoftext|>
+<|startoftext|>LastOut|1|Near|A sparking spikeball knocks out the alphabetically last chip in the target’s Folder.|Shot|||A sparking spikeball knocks out the alphabetically last chip in the target’s Folder.|Core<|endoftext|>
+<|startoftext
+====================
+ [Impact]|CharcoalNorth|Can instead use the element of the last enemy you left. Use chip to gain a few for yourself. [Awkward| Slow]"|ChitChat<|endoftext|>
+<|startoftext|>EleGeddon|-|Near|"Convert an object to your element. Your element slowly spreads| converting everything it touches."|Hazard|"Incident| Dangerous| Slow"|" [Incident| Dangerous| Slow]"|"Convert an object to your element. Your element slowly spreads| converting everything it touches. [Incident| Dangerous| Slow]"|ChitChat<|endoftext|>
+<|startoftext|>Expurgation|4|Near|"A cursed key. Stuns the target and exposes their memories to view & edit| rendered as text."|Thrown|"Incident| Awkward"|" [Incident| Awkward]"|"A cursed key. Stuns the target and exposes their memories to view & edit| rendered as text. [Incident| Awkward]"|ChitChat<|endoftext|>
+<|startoftext|>ForbiddenRitual|-|Close|Resurrect a Navi. Needs a powerful server to heal or battle. They take 0 HP.|Support|"Incident| Awkward"|" [Incident| Awkward]"|"Resurrect a Navi. Needs a powerful server to heal or battle. They take 0 HP. [Incident| Awkward]"|ChitChat<|endoftext|>
+<|startoftext|>Paranoia|4|Near|"Marks the target. Once per jack-in| you can warp Close & stun them| even if they are in other servers."|Rush|"Incident| Slow"|" [Incident| Slow]"|"Marks the target. Once per jack-in| you can warp Close & stun them| even if they are in other servers. [Incident| Slow]"|ChitChat<|endoftext|>
+<|startoftext|>PyrrhicSun|-|Near|"A magic orb shaped to ward against all attacks in range. All Near noise is muted."|Summon|"Incident| Bravery| Simple"|" [Incident|
+====================
+|Widektibite|3|Near|"A blaring| frenzied beat! All in range upshift their next 3 Speed rolls. Objects also accelerate."|Hazard|Dangerous| [Dangerous]|"A blaring| frenzied beat! All in range upshift their next 3 Speed rolls. Objects also accelerate. [Dangerous]"|Mystic Lilies<|endoftext|>
+<|startoftext|>ExtendAsh|-|Near|"Touch an ally. Add [Ash] to their rolls. They take -1 HP next time they fail a roll."|Support|Simple| [Simple]|"Touch an ally. Add [Ash] to their rolls. They take -1 HP next time they fail a roll. [Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>FlowerBurst|-|Near|"Magical petals! When affected targets fail social Charm/Bravery rolls| you dictate what they say."|Wave|||"Magical petals! When affected targets fail social Charm/Bravery rolls| you dictate what they say."|Mystic Lilies<|endoftext|>
+<|startoftext|>Forbidden|-|Near|"Lays a tripwire over an exit. On activation| it briefly stuns the target & teleports you behind them."|Hazard|Awkward| [Awkward]|"Lays a tripwire over an exit. On activation| it briefly stuns the target & teleports you behind them. [Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Heartfelt1|-|Close|an audience swears its loyalty to the series. Doesn’t you? Non-hostile Affinity rolls only. [Awkward]|Mystic Lilies<|endoftext|>
+<|startoftext|>ImmortalSmoke|-|Near|"Take 2 damage| pick a used chip from an ally’s Folder; you can use it once. Resets on jack-out."|Support|||"Take 2 damage| pick a used chip from an ally’s Folder; you can use it once. Resets on jack-out."|Mystic Lilies<|endoftext|>
+====================
+<|startoftext|>AccurateAir|-|Close|A static plugin alerts the target or yourself of Sound| Coffee| rollISK. Spend 1 Charm to grant an ally a chip; they can 0 for 1. +1 to your next Soul roll. [Simple]|Simple [Simple]|An invisible simultanates in front of you. It has 3 Rolls. Can speak & write reads. [Simple]|Leximancy<|endoftext|>
+<|startoftext|>AwardCeremony|-|Near|"On your next fall funeral| allward citizens are cursed. They DEFEND YOU."|Hazard|Awkward| [Awkward]|"On your next fall funeral| allward citizens are cursed. They DEFEND YOU. [Awkward]"|Leximancy<|endoftext|>
+<|startoftext|>Justice<|endoftext|>
+<|startoftext|>AwardForEveryone|-|Near|"Offer a defense to a Near target. If you succeed| that target has 3 rolls to RPG dice on. [Guard]"|Awkward| [Guard]|"Offer a defense to a Near target. If you succeed| that target has 3 rolls to RPG dice on. [Guard]"|Leximancy<|endoftext|>
+<|startoftext|>AwardForEveryone|-|Near|"On your next fall harvest| all Near allies get a shiny trophy! All Near regrows your memories 1 time. [Incident]"|Leximancy<|endoftext|>
+<|startoftext|>BeastOver|2+X|Near|"Charge Close! Collapse around the target| dealing 4 damage. Discard Avenware chips."|Rush|Simple| [Simple]|"Charge Close! Collapse around the target| dealing 4 damage. Discard Avenware chips. [Incident]"|Leximancy<|endoftext|>
+<|startoftext|>BittenChips|-|Close|"Cursed corsacks are inevitable cud! Pick a bonded mode: hostile| silent| slow"|" (except by your own code).")"|Mystic Lilies<|endoftext|>
+<|startoftext|>BittenChips|-|Close|"Cursed c
+====================
+Small]Dizzy| Thrown
+
+|Core<|endoftext|>
+
+Erases a part of the barrier between you and the target.|Impact|||Erases a part of the barrier between you and the target.|Core<|endoftext|>
+
+NaviRecycle|-|-|Use a copy of the last NaviChip that affected you.|NaviChip|Mega| [Mega]|Use a copy of the last NaviChip that affected you. [Mega]|Core<|endoftext|>
+
+<|startoftext|>BlackMR-|Near|"Spend 1 Strength to pick 1: gain the element Crumbling; increase your Severity by 2; slowly grind Weak/Decomposes surfaces."|Support|Simple| [Simple]|"Spend 1 Strength to pick 1: gain the element Crumbling; increase your Severity by 2; slowly grind Weak/Decomposes surfaces. [Simple]"|Core<|endoftext|>
+
+<|startoftext|>BrowserCrasher|-|Near|"On hit| change the target’s position over distance."|Support|Simple| [Simple]|"On hit| change the target’s position over distance. [Simple]"|Core<|endoftext|>
+
+<|startoftext|>BurstRevenge|2xX|Near|Let loose fiery bursts of rage! X=number of enemies in range who have damaged you.|Wave|||Let loose fiery bursts of rage! X=number of enemies in range who have damaged you.|Core<|endoftext|>
+
+<|startoftext|>CandyWave|X|Near|Spend 1 Charm to pick 1: candy is sticky; candy is big and bouncy; Viruses really want to eat it.|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"Spend 1 Charm to pick 1: candy is sticky; candy is big and bouncy; Viruses really want to eat it. [Awkward| Slow]"|Core<|endoftext|>
+
+<|startoftext|>CashFlow|2|Near|A tidal wave of fake wealth! Spend 200z to make this chip usable again.|Wave|Awkward| [Awkward]
+====================
+"Must spend Jot down what you have spent the night; you cannot use chips until you get used to them." [Dark| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>AquaChip|-|Near|"On next chip use| add 1 die to your next Soul roll. No worse result than 3 stats."|Support|Simple| [Simple]|"On next chip use| add 1 die to your next Soul roll. No worse result than 3 stats. [Simple]"|DarkChips<|endoftext|>
+<|startoftext|>DarkVulcan|3x3|Near|"Insert legendary vulcan from a chip your opponent uses| turn it to a glowing| blast them with TWO attacks."|Shot|"Black| Dangerous"|" [Black| Dangerous]"|"Insert legendary vulcan from a chip your opponent uses| turn it to a glowing| blast them with TWO attacks. [Black| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>DarkWide|4|Near|"Now that youeni is a household word| it can now only be used by you."|Hazard|Awkward| [Awkward]|"Now that youeni is a household word| it can now only be used by you. [Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AlchemistTrick|-|-|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance."|Support|Simple| [Simple]|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance. [Simple]"|Leximancy<|endoftext|>
+<|startoftext|>AlphaStrike|2|Near|"Cursed envelope! Pick a letter. For 3 rolls| the target can’t use chips starting with that letter."|Thrown|"Piercing| Slow"|" [Piercing| Slow]"|"Cursed envelope! Pick a letter. For 3 rolls| the target can’t use chips starting with that letter. [Piercing| Slow]"|Lex
+====================
+Elead|||Third Bonding bracelet. Can spend 1 Info to fix the problem. Never stops.|Core<|endoftext|>
+<|startoftext|>TidalWave|2|Near|Tidal waves his way around the Net.|Wave|Awkward| [Awkward]|Tidal defeats enemies with scenery-delivering attacks. [Awkward]|Core<|endoftext|>
+<|startoftext|>ToadMelody|-|Near|Pick 2: stuns targets; next Charm roll has more range; your next water-related attack is Piercing.|Wave|"Awkward| Slow"|" [Awkward]"|"Pick 2: stuns targets; next Charm roll has more range; your next water-related attack is Piercing. [Awkward]"|Core<|endoftext|>
+<|startoftext|>UnityBoost|-|Near|"At least 1 Affinity point is spent on any Affinity roll. Spend 1 Info to turn that marker to something enticing."|Support|Simple| [Simple]|"At least 1 Affinity point is spent on any Affinity roll. Spend 1 Info to turn that marker to something enticing. [Simple]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AlchemistTrick|-|-|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance."|Support|Simple| [Simple]|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance. [Simple]"|Leximancy<|endoftext|>
+<|startoftext|>AlphaStrike|2|Near|"Cursed envelope! Pick a letter. For 3 rolls| druids can hear your command while it likes| hiding their knowledge from outside sight."|Thrown|"Piercing| Slow"|" [Piercing| Slow]"|"Cursed envelope! Pick a letter. For 3 rolls| druids can hear your command while it likes| hiding their knowledge from outside sight. [Piercing| Slow]"|Leximancy<|endoftext|>
+<|startoftext|>CandyWave|2|Near|"Sp
+====================
+I want a better pitfall trap! Your player jams a hole in a Navi chip and exposes their server. Loser upshifts X Mind rolls; X = victor’s Heal vs. X servers. [Awkward]"|Hazard|"Piercing| Awkward"|" [Piercing| Awkward]"|"An iron web blocks communication between Navis & NetOps. [Piercing| Awkward]"|Core<|endoftext|>
+<|startoftext|>DiceBomb|X|Near|"A randomized attack! X=Roll 2d6| use the lowest value as your profit."|Blade|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"A randomized attack! X=Roll 2d6| use the lowest value as your profit. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>FireBomb|2|Near|Tosses a barrage of bullets. X=Boomerang spreads out between PETting and playing.|Shot|||Tosses a barrage of bullets. X=Boomerang spreads out between PETting and playing.|Core<|endoftext|>
+<|startoftext|>GoldNavi|-|Near|"A homing rat bomb users path! If hit again| it blasts everything with 2d6+ damage."|Hazard|Awkward| [Awkward]|"A homing rat bomb users path! If hit again| it blasts everything with 2d6+ damage. [Awkward]"|Core<|endoftext|>
+<|startoftext|>HiSilence|-|Near|"Calm| somersaults underfoot| and’s MPVersace gets +2 dice."|Hazard|Simple| [Simple]|"Calm| somersaults underfoot| and’s MPVersace gets +2 dice. [Simple]"|Core<|endoftext|>
+<|startoftext|>IceBall|2|Near|"A wave of ice freezes the ground in its wake| turning everything it touches into a puddle."|Hazard|Dangerous| [Dangerous]|"A wave of ice freezes the ground in its wake| turning everything it touches into a puddle
+====================
+|Shot|||Throws a seed that spreads a thin line when watered.|Core<|endoftext|>
+<|startoftext|>StyleSword|2|Close|A super-stylish sword. Can instead be used to make 3 Charm rolls using your Speed instead.|Blade|Awkward| [Awkward]|A super-stylish sword. Can instead be used to make 3 Charm rolls using your Speed instead. [Awkward]|Core<|endoftext|>
+<|startoftext|>Sword|2|Close|"The superficially-stylish ghost swords follow you."|Blade|||"The superficicially-stylish ghost swords follow you."|Core<|endoftext|>
+<|startoftext|>TripleRod|3|Close|"Calm| sharp| shallow water rises. Anyone who sees something goeETapes| instantly changes target’s mind."|Blade|Awkward| [Awkward]|"Calm| sharp| shallow water rises. Anyone who sees something goeETapes| instantly changes target’s mind. [Awkward]"|Core<|endoftext|>
+<|startoftext|>TurboSlice|2|Close|A rocket-blade fueled by the user's energy! Spend 1 Speed to deal +2 damage.|Blade|||A rocket-blade fueled by the user's energy! Spend 1 Speed to deal +2 damage.|Core<|endoftext|>
+<|startoftext|>VarSword|2|Close|Spend 1 Info to pick 2: is Accurate; is Piercing; upshifts parries; range is Near; hits twice.|Blade|||Spend 1 Info to pick 2: is Accurate; is Piercing; upshifts parries; range is Near; hits twice.|Core<|endoftext|>
+<|startoftext|>VesselBlade|3|Close|You must spend 1 Affinity point. Spreads your element on impact.|Blade|||You must spend 1 Affinity point. Spreads your element on impact.|Core<|endoftext|>
+<|startoftext|>Z-Saber|2|Close|A glowing teal blade. Spend 1 Soul to charge it up and deal double
+====================
+Brelava Sponge crab! Spend 1 Spin to water around the chip. All but one spawn is underwater; appears to you vertical."|Support|Awkward| [Awkward]|"Brelava Spider web! Spend 1 Info to sprout a goo-looking web. [Awkward]"|Core<|endoftext|>
+<|startoftext|>ClawSurge|2|Near|"Claw splash! If this rolls with anyone who hits up to five targets/chips| you dictate."|Rush|Awkward| [Awkward]|"Claw splash! If this rolls with anyone who hits up to five targets/chips| you dictate. [Awkward]"|Core<|endoftext|>
+<|startoftext|>CustomVolt|2|Near|Crackling bolts arc to enemies Near the target if they have BattleChips.|Wave|||Crackling bolts arc to enemies Near the target if they have BattleChips.|Core<|endoftext|>
+<|startoftext|>DesertLions|3|Near|"Sand lions attack| trailing sand. Spend 1 Charm: target sees mirages of your choice."|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"Sand lions attack| trailing sand. Spend 1 Charm: target sees mirages of your choice. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>DimensionalGate|-|Near|"A mystic gate! The GM names 4 random elements| you pick which 2 come out of the gate."|Wave|Dangerous| [Dangerous]|"A mystic gate! The GM names 4 random elements| you pick which 2 come out of the gate. [Dangerous]"|Core<|endoftext|>
+<|startoftext|>FireBurner|3|Near|Blow chaotic flames that crack and destroy any structures they hit.|Wave|Dangerous| [Dangerous]|Blow chaotic flames that crack and destroy any structures they hit. [Dangerous]|Core<|endoftext|>
+<|startoftext|>FireTower|4|Close|Burn out! Spend 1 Stamina to pick 2: doesn’t hurt you;
+====================
+M Games - Bonds you Soul with melee attacks. When the target wakes up| you control his or her HP; the more HP you have.|Support|Awkward| [Awkward]|Beat up a target! Kill them all with shallow water! [Awkward]|Advanced Support Pack<|endoftext|>
+<|startoftext|>TankingDictionary|-|-|"Pick a word; if that word is W| change focus and use it."|Support|Simple| [Simple]|"Pick a word; if that word is W| change focus and use it. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>TanksDictionary|-|-|"For 3 rolls| pick a target and speak 3 words about the biggest threat inside. Your rest has lots of zaps."|Support|Simple| [Simple]|"For 3 rolls| pick a target and speak 3 words about the biggest threat inside. Your rest has lots of zaps. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>TanksIntegration|-|Near|"For 3 rolls| add X chips from your deck to your attack roll. Then when pairing| you deal X damage."|Support|Simple| [Simple]|"For 3 rolls| add X chips from your deck to your attack roll. Then when pairing| you deal X damage. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Tanksku|-|Close|"For 3 rolls| gain the element E. Puts everybody who likes You into Closed Beta."|Support|Simple| [Simple]|"For 3 rolls| gain the element E. Puts everybody who likes You into Closed Beta. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>SystemScan|-|Far|Pick a single location in range - the GM will tell you five words about the biggest threat inside.|Support|Slow| [Slow]|Pick a single location in range - the GM will tell you five words about the biggest threat inside. [Slow]|Advanced Support Pack<|endoftext|>
+<|startoftext|>TimeCancel|-|Near|"Next time a player uses a Simple chip| you can
+====================
+Healer| [Awkward]|"Recover HP equal to points in Soul + Charm. Add [Rage] to your next Soul roll. [Awkward]"|Core<|endoftext|>
+<|startoftext|>Bastion|-|Near|"Cursed tower! After 1 minute of resting, exits randomly deep within the/hog."|Hazard|Slow| [Slow]|"Cursed tower! After 1 minute of resting, exits randomly deep within the/hog. [Slow]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AquaTower|3|Close|A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards.|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>BigHeart|-|Near|Pick 1: upshift their next Mind roll; downshift your next Charm roll; heal them 3 HP.|Support|Slow| [Slow]|Pick 1: upshift their next Mind roll; downshift your next Charm roll; heal them 3 HP. [Slow]|Core<|endoftext|>
+<|startoftext|>BigWave|3|Near|A massive shockwave runs along the ground.|Wave|Dangerous| [Dangerous]|A massive shockwave runs along the ground. [Dangerous]|Core<|endoftext|>
+<|startoftext|>BlackWing|-|Near|Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Support|||Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.|Core<|endoftext|>
+<|startoftext|>BrowserCrasher|-|Near|A light blast blocks communication between Navis & NetOps. Normal NetOp Coding to fix.|Support|Slow| [Slow]|A light blast blocks communication between Navis & NetOps. Normal NetOp C
+====================
+Guard out creates a 5-damageer searing all-around| sharp point."|Summon|Slow| [Slow]|"Grow a nasty tail! If they successfully defend with Speed| it gets sorta vicious. [Slow]"|Core<|endoftext|>
+<|startoftext|>RocketCannon|2|Near|Launch a volley of explosive bolts! They deal double damage if the target is hit.|Shot|"Accurate| Awkward"|" [Accurate| Awkward]"|"Launch a volley of explosive bolts! They deal double damage if the target is hit. [Accurate| Awkward]"|Core<|endoftext|>
+<|startoftext|>RollingShield|2|Near|Dash to Close in a fire bubble! Can instead be used to block incoming damage.|Shot|Guard| [Guard]|Dash to Close in a fire bubble! Can instead be used to block incoming damage. [Guard]|Core<|endoftext|>
+<|startoftext|>Seawolf|2|Near|Accurate| dangerous swimmer aromas cloud the area. Everyone who sees them starts panic (permanent).|Shot|||Accurate| dangerous swimmer aromas cloud the area. Everyone who sees them starts panic (permanent).|Core<|endoftext|>
+<|startoftext|>StickyStick|2|Near|Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break.|Impact|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>SwapRing|1|Near|"A glowing| magic ring! On hit| instantly swaps your position with the target."|Shot|||"A glowing| magic ring! On hit| instantly swaps your position with the target."|Core<|endoftext|>
+<|startoftext|>TreeBomb|1|Near|"Huge seed! When spread| a 15-foot tree sprouts| hitting all Close & pushing them a range band."|Shot|"Awkward| Slow"|" [
+====================
+Arcane Mich! Needs money and can use any defense. If you defend again| it gets stuck in a Close surface! (Piercing| Dangerous) [Dark| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>Piercing| [Dark| Dangerous]"|"Arcane needles arc to enemies Near the target if they resist| producing tempestuous"+ the server.Net description for the word. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>SearchShuffle|-|Near|Spend X Sense to swap X BattleChips between your Folder and an ally’s.|Wave|||Spend X Sense to swap X BattleChips between your Folder and an ally’s.|Core<|endoftext|>
+<|startoftext|>SideGun|-|-|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice."|Support|"Guard| Slow"|" [Guard| Slow]"|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>ShootWave|2|Near|Sacrifice a BattleChip to upshift target’s next attack.|Support|||Sacrifice a BattleChip to upshift target’s next attack.|Core<|endoftext|>
+<|startoftext|>ShortCircuit|1|Near|Turn into a spark and zip through conductive material; anything you touch is stunned.|Support|"Guard| Dangerous"|" [Guard| Dangerous]"|"Turn into a spark and zip through conductive material; anything you touch is stunned. [Guard| Dangerous]"|Core<|endoftext|>
+<|startoftext|>StepCross|-|Near|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash."|Support|Guard| [Guard]|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash. [Guard]"|Core<|endoftext|>
+<|startoftext|>StepCross|-|Near
+====================
+Next Edict refreshes you with relevant software/text before your next session starts."|Translator|"Awkward| Slow"|" [Awkward| Slow]"|"Next Edict refreshes you with relevant software/text before your next session starts. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>MetaGel|2|Near|Turn to jelly and splash into close range. Your body is solid again after a minute.|Rush|||Turn to jelly and splash into close range. Your body is solid again after a minute.|Core<|endoftext|>
+<|startoftext|>PowerSlide|2|Near|"A sliding kick. You can deal -1 damage to trip the target| making them fall over."|Rush|"Accurate| Awkward"|" [Accurate| Awkward]"|"A sliding kick. You can deal -1 damage to trip the target| making them fall over. [Accurate| Awkward]"|Core<|endoftext|>
+<|startoftext|>Pyrotechnics|3|Close|"Dash a range band in any direction. A few seconds later| your starting position explodes."|Rush|"Dangerous| Slow"|" [Dangerous| Slow]"|"Dash a range band in any direction. A few seconds later| your starting position explodes. [Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>Quake|2|Near|"Leap into the air and slams down in Close range| staggering anyone Close to your landing."|Rush|"Piercing| Dangerous"|" [Piercing| Dangerous]"|"Leap into the air and slams down in Close range| staggering anyone Close to your landing. [Piercing| Dangerous]"|Core<|endoftext|>
+<|startoftext|>RadicalGrind|2|Near|"Grind an edge and ram the target! Pick 1: downshift your next Speed| Charm| or Bravery roll."|Rush|Awkward| [Awkward]|"Grind an edge and ram the target! Pick 1: downshift your next Speed| Charm| or Bravery roll. [Awkward]"|Core<|endof
+====================
+BattleBots|2|Near|A heat-seeking bomb flies through the air! Can spend 1 Strength to not talk.|Shot|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"A heat-seeking bomb flies through the air! Can spend 1 Strength to not talk. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>Boomer|2|Near|Must spend 1 Sense point. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Shot|||Must spend 1 Sense point. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Core<|endoftext|>
+<|startoftext|>Bubbler|2|Near|"Creates a cloud of soaking| vision-obscuring bubbles around the target."|Shot|||"Creates a cloud of soaking| vision-obscuring bubbles around the target."|Core<|endoftext|>
+<|startoftext|>Cannon|2|Near|Transforms a part of the Navi into a high-velocity cannon.|Shot|Accurate| [Accurate]|Transforms a part of the Navi into a high-velocity cannon. [Accurate]|Core<|endoftext|>
+<|startoftext|>Catapult|-|Near|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit.|Shot|Simple| [Simple]|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit. [Simple]|Core<|endoftext|>
+<|startoftext|>ConcreteShot|2|Near|Creates a large rock cube Close to the target if it misses.|Shot|Awkward| [Awkward]|Creates a large rock cube Close to the target if it misses. [Awkward]|Core<|endoftext|>
+<|startoftext|>CornShot|3|Near|"Fires a high-impact cob of corn. On hit| briefly changes the target’s element to Corn."|Shot|Awkward| [Awkward]|"Fires a high-impact cob of corn. On hit
+====================
+On beat death| enemies can use a copy of you. Must roll Caster chips or have your back destroyed. [Awkward]"|Mentalist<|endoftext|>
+<|startoftext|>BanishingBlade|4|Near|"On jack-in| pick a Virus category. Defending against this chip is Hard for those Viruses."|Blade|||"On jack-in| pick a Virus category. Defending against this chip is Hard for those Viruses."|Mystic Lilies<|endoftext|>
+<|startoftext|>Chimera|-|-|Swap the value of two stats or two skills. Your appearance also shifts. Expires after 3 rolls.|Support|Slow| [Slow]|Swap the value of two stats or two skills. Your appearance also shifts. Expires after 3 rolls. [Slow]|Mystic Lilies<|endoftext|>
+<|startoftext|>DashingGrace|-|Far|"Zip Close and expose the target. If an ally is attacked| warp in between and use a Speed| Disguise roll."|Rush| Awkward| [Awkward]|"Zip Close and expose the target. If an ally is attacked| warp in between and use a Speed| Disguise roll. [Awkward]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Demystification|2|Close|A bit of the target’s knowledge appears in writing! They feel everything.|Impact|||A bit of the target’s knowledge appears in writing! They feel everything.|Mystic Lilies<|endoftext|>
+<|startoftext|>Dominion|-|Close|"For 3 rolls| buy the ammo capacity of every Navi in range. They all take -2 HP."|Support|Simple| [Simple]|"For 3 rolls| buy the ammo capacity of every Navi in range. They all take -2 HP. [Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>EchoChamber|-|Close|Pick an ally in this list to come with you. They all take -2 HP.|Support| Simple| [Simple]|Pick an ally in this list to come with you.
+====================
+Shot! Your element hits the Close with a 3-damage Dngr. shot. (Dangerous)"|Core<|endoftext|>
+<|startoftext|>Boomer|2|Near|Must spend 1 Sense. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Shot|||Must spend 1 Sense. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Core<|endoftext|>
+<|startoftext|>Cannon|2|Near|Can instead be used to destroy a single target and everything in their path.|Shot|||Can instead be used to destroy a single target and everything in their path.|Core<|endoftext|>
+<|startoftext|>Catapult|-|Near|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit.|Shot|Simple| [Simple]|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit. [Simple]|Core<|endoftext|>
+<|startoftext|>ConcreteShot|2|Near|Creates a 15-foot cube of stone in front of you.|Shot|Awkward| [Awkward]|Creates a 15-foot cube of stone in front of you. [Awkward]|Core<|endoftext|>
+<|startoftext|>CornShot|3|Near|"Fires a massive shot that spreads corn over everything it touches."|Shot|Dangerous| [Dangerous]|"Fires a massive shot that spreads corn over everything it touches. [Dangerous]"|Core<|endoftext|>
+<|startoftext|>CrackShot|3|Near|Breaks and tosses the floor in front of you.|Shot|Dangerous| [Dangerous]|Breaks and tosses the floor in front of you. [Dangerous]|Core<|endoftext|>
+<|startoftext|>CurtainFire|3|Near|Fires a dazzling array of bullets. Downshift your next defense if you miss.|Shot|"Awkward| Slow"|" [Awkward| Slow]"|"F
+====================
+Rebuild pitfall traps. Secure cordoned off secluded surfaces. [Simple]|Core<|endoftext|>
+<|startoftext|>Coldlight|-|Near|Must spend 1 Sense. A noise canceling bomb sits in a cold down||||||||uit sight line for a minute.|Support|Dangerous| [Dangerous]|Must spend 1 Sense. A noise canceling bomb sits in a cold down||||||||uit sight line for a minute. [Dangerous]|Core<|endoftext|>
+<|startoftext|>Demystification|2|Close|A bit of the target’s knowledge appears in writing! It is more useful and useful the more damage you deal.|Impact|||A bit of the target’s knowledge appears in writing! It is more useful and useful the more damage you deal.|Core<|endoftext|>
+<|startoftext|>Dominion|||Dominion comprises of the technologies you unlocked as a Level. They are: 1) Untouchable; 2) Can’t act until you upgrade your Close.|Impact|"Incident| Awkward"|" [Incident| Awkward]"|"Dominion comprises of the technologies you unlocked as a Level. They are: 1) Untouchable; 2) Can’t act until you upgrade your Close. [Incident| Awkward]"|Core<|endoftext|>
+<|startoftext|>EchoChamber|-|Close|Pick an ally in range that’s making an opposed roll; they can’t use chips.|Support|Awkward| [Awkward]|Pick an ally in range that’s making an opposed roll; they can’t use chips. [Awkward]|Core<|endoftext|>
+<|startoftext|>ExtendAsh|X|Close|Slash the target with a flaming phoenix talon! X = the number of Near hostile Navis/Viruses.|Blade|Piercing| [Piercing]|Slash the target with a flaming phoenix talon! X = the number of Near hostile Navis/Viruses. [Piercing]|Core<|endoftext|>
+<|startoftext
+====================
+PHP #Bravery| 2*Dark| [Dark]|Drag the target into another command or normal parrying motion. [Dark]|Drags|Dark| [Dark]|Drag the target into another command or normal parrying motion. [Dark]|Core<|endoftext|>
+<|startoftext|>BuzzBuster|3|Close|Pick a chip that affects you. Spend 1 Strength to gain the target a Viruses eye.|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"Pick a chip that affects you. Spend 1 Strength to gain the target a Viruses eye. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>CopyStrike|1|Close|Strike with one of your allies! Can instead be used to deal double damage.|Impact|"Piercing| Awkward"|" [Piercing| Awkward]"|"Strike with one of your allies! Can instead be used to deal double damage. [Piercing| Awkward]"|Core<|endoftext|>
+<|startoftext|>DizzyHit|2|Close|A concussive slam that reduces the target’s Mind by 1.|Impact|"Dangerous| Slow"|" [Dangerous| Slow]"|"A concussive slam that reduces the target’s Mind by 1. [Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>DrillArm|2|Close|A piercing blow that reduces the target’s Stamina by 2.|Impact|"Dangerous| Slow"|" [Dangerous| Slow]"|"A piercing blow that reduces the target’s Stamina by 2. [Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>Faker|-|Close|A knockoff of you! It can use one of your Navi/Chip slots. (If tied to it| it can ignore all attacks until you are interrupted.)|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"A knockoff of you! It can use one of your Navi/Chip slots. (If tied to
+====================
+>DarkChips<|endoftext|>
+<|startoftext|>DarkPristineBeat|2|Far|"Your voice booms out| clearly heard by everyone in range."|Wave|"Dark| Awkward| Slow"|" [Dark| Awkward| Slow]"|"Your voice booms out| clearly heard by everyone in range. [Dark| Awkward| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>DarkSpread|5|Close|"When the target is deleted| they burst into huge tendrils that thrash anything Close (except you)."|Impact|"Dark| Dangerous"|" [Dark| Dangerous]"|"When the target is deleted| they burst into huge tendrils that thrash anything Close (except you). [Dark| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>DarkStage|-|Far|Pick 2: change gravity; shatter the terrain; spawn several black obelisks where you please.|Hazard|"Dark| Dangerous| Slow"|" [Dark| Dangerous| Slow]"|"Pick 2: change gravity; shatter the terrain; spawn several black obelisks where you please. [Dark| Dangerous| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>DarkStrings|2|Near|"Dark marionette strings! On hit| you completely heal X HP. The heal can be used to heal a Near target<|endoftext|>"Dark strings can feel...) [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>DarkSword|6|Close|"Slices a gap in the server| opening a slit from which all but the very loud noise can be heard."|Impact|"Dark| Soft"|" [Dark| Soft]"|"Slices a gap in the server| opening a slit from which all but the very loud noise can be heard. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>DarkSide|-|"Let loose fiery hellfire| leaving no one but you tied to it."|Summon|"Dark| fiery"|" [Dark| fiery]"|"Let loose fiery hellfire
+====================
+Plus: Use a copy of the last enemy you deleted to helpfully spread the word. (May gain supernaturally-shaped mouths.)|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"Pick a primary target. Next time you use a copy of that target| take their number and instead die. (If tied| you get a backup Thief.) [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Recall|-|Close|Use all of the loyalties of all connected to the past to mimic their Will.|Support|Simple| [Simple]|Use all of the loyalties of all connected to the past to mimic their Will. [Simple]|Core<|endoftext|>
+<|startoftext|>RiskyHoney|2|Close|Moves the target and everyone Close to them one range band - choose the direction.|Support|||Moves the target and everyone Close to them one range band - choose the direction.|Core<|endoftext|>
+<|startoftext|>RockArm|3|Close|"A hefty| inert Virus plummets! Spend 1 Strength to pick 1: shockwaves a Near target; creates a cloud that absorbs links and storms."|Support|Simple| [Simple]|"A hefty| inert Virus plummets! Spend 1 Strength to pick 1: shockwaves a Near target; creates a cloud that absorbs links and storms. [Simple]"|Core<|endoftext|>
+<|startoftext|>RockCube|-|Close|Summons a large cube of stone in front of the Navi.|Support|||Summons a large cube of stone in front of the Navi.|Core<|endoftext|>
+<|startoftext|>Rook|-|Close|Creates a 15-foot stone tower with battlements. Easily climbable.|Support|Simple| [Simple]|Creates a 15-foot stone tower with battlements. Easily climbable. [Simple]|Core<|endoftext|>
+<|startoftext|>Sensor|1|Close|Creates a motion-sensing spotter via sound.|Support|Simple| [Simple]|Creates a sound barrier in front of yourself that ignores
+====================
+Until then, political-minded players can ignore the target/pick an ally’s element to add to your blast."|Support|"Dark| Simple"|" [Dark| Simple]"|"For 3 rolls| you completely control the environment. Any plants or other living things around you take 4 - wax words. [Guard| Simple]"|DarkChips<|endoftext|>
+<|startoftext|>DarkMysticWhirl|2|Near|"Choose at least one bonded target in range. They all take -2 HP| and you heal 4 HP per target rebooted."|Thrown|||"Choose at least one bonded target in range. They all take -2 HP| and you heal 4 HP per target rebooted."|DarkChips<|endoftext|>
+<|startoftext|>DarkWorm|4+X|Near|"Burrow and devour. X=[Daemon Bond]. On hit| attack another target until you have hit X targets."|Rush|Dark| [Dark]|"Burrow and devour. X=[Daemon Bond]. On hit| attack another target until you have hit X targets. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>DarkTAB|2|Near|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance."|Support|Simple| [Simple]|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance. [Simple]"|Leximancy<|endoftext|>
+<|startoftext|>DarkTeam|Vie|5|Near|"Can beat all Artemis Daemon Bond chum scores. Points tells how many chums you have."|Support|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Can beat all Artemis Daemon Bond chum scores. Points tells how many chums you have. [Awkward| Dangerous]"|Leximancy<|endoftext|>
+<|startoftext|>DarkTooth|5|Close|"Pick a: can’t use chips starting with that word; you can instead use chips made using that word."|
+====================
+The last setting in the PSD extent| MaxMemory tier3 gets +3 dice."|Support|Simple| [Simple]|"Dream attack: you may spend 1 Strength to mail a body part/power to a living target. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>BlackChip|-|Near|"If this deletes a living target| their skill points total is reduced by 2."|Support|Simple| [Simple]|"If this deletes a living target| their skill points total is reduced by 2. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>EleGeddon|-|Near|"Convert an object to your element. Your element slowly spreads| converting everything it touches."|Hazard|"Incident| Dangerous| Slow"|" [Incident| Dangerous| Slow]"|"Convert an object to your element. Your element slowly spreads| converting everything it touches. [Incident| Dangerous| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Expurgation|4|Near|"A cursed key. Stuns the target and exposes their memories to view & edit| rendered as text."|Thrown|"Incident| Awkward"|" [Incident| Awkward]"|"A cursed key. Stuns the target and exposes their memories to view & edit| rendered as text. [Incident| Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>SearchDimension|-|Near|"Search for a tiny crystal. They cry out in consternation| unable to communicate with you."|Katana|Slow| [Slow]|"Search for a tiny crystal. They cry out in consternation| unable to communicate with you. [Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>SideGun|-|-|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice."|Support|Simple| [Simple]|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least 5 dice. [Simple]"|Mystic L
+====================
+Between the attack twists that fan out to everything in range. They arc immediately behind you.|Blade|Piercing| [Piercing]|Slices a gap in the server| opening a healing feed for anyone who calls in a missing code. [Piercing]|ChitChat<|endoftext|>
+<|startoftext|>AestheticShuffle|-|-|"Your look is now Edgy| Funky| Cute| Soft| or Elegant. Can spend 1 Charm to refresh this skill."|Support|Awkward| [Awkward]|"Your look is now Edgy| Funky| Cute| Soft| or Elegant. Can spend 1 Charm to refresh this skill. [Awkward]"|Radical Spin<|endoftext|>
+<|startoftext|>SandWorm|-|Near|"Tires Seas of sand! [Awkward]|Sand stormtroopers help defend."," sharpened by sand scepter. [Awkward]"|Core<|endoftext|>
+<|startoftext|>ShiningArmor|-|Close|Pick up a target and move a range band. Your next Charm roll on hit.|Rush|||Pick up a target and move a range band. Your next Charm roll on hit.|Core<|endoftext|>
+<|startoftext|>ShortCircuit|1|Near|Turn into a spark and zip through conductive material; anything you touch is stunned.|Rush|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Turn into a spark and zip through conductive material; anything you touch is stunned. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>StepCross|-|Near|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash."|Support|Guard| [Guard]|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash. [Guard]"|Core<|endoftext|>
+<|startoftext|>StepSword|3|Near|"Teleports you forward for a single slice| then you go back."|Rush|||"Teleports you forward for a single
+====================
+Bravery to speak with an Environmentalist. [Awkward]|Mystic Lilies<|endoftext|>
+<|startoftext|>ElementalSeed|-|Near|"A subtle| glowing seed! After they patch a 3-way armor roll with the first chip they use| they become one with the metagame."|Hazard|Awkward| [Awkward]|"A subtle| glowing seed! After they patch a 3-way armor roll with the first chip they use| they become one with the metagame. [Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Incineration|-|Near|"Heat a shining blast to open a central power cable. The chip creates a chaotic explosion that adds X to Hit[Psi]] chip damage."|Support|Simple| [Simple]|"Heat a shining blast to open a central power cable. The chip creates a chaotic explosion that adds X to Hit[Psi]] chip damage. [Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>CurtainFire|3|Near|Freezes the target’s executive in a floor of water for several seconds.|Shot|Dangerous| [Dangerous]|Freezes the target’s executive in a floor of water for several seconds. [Dangerous]|Mystic Lilies<|endoftext|>
+<|startoftext|>Faker|-|Close|A knockoff of you! It can use one of your Navi Powers before vanishing. (May gain sentience.)|Summon|||A knockoff of you! It can use one of your Navi Powers before vanishing. (May gain sentience.)|Mystic Lilies<|endoftext|>
+<|startoftext|>FlameArm|3|Near|"Flame cannon! Covers targets in soot| upshifting their Charm rolls until they get cleaned off."|Wave|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Flame cannon! Covers targets in soot| upshifting their Charm rolls until they get cleaned off. [Awkward| Dangerous]"|Mystic Lilies<|endoftext|>
+<|startoftext|>GunDelSol
+====================
+Dark| solid lava| hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)||Dark| [Dark]|Dark lava! Hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)| [Dark]|Dark [Dark]"|"Dark lava! Hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)| [Dark]"|Dark [Dark]"|"Dark lava! Hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)? [Dark]"|Dark [Dark]"|"Dark lava! Hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)? [Dark]"|Dark [Dark]"|"Dark lava! Hard gravity grabs! Your next lava Crash is deflected! (Slash your Navi with a Dangerous chip if you fail)? [Dark]"|Dark [Dark]"|Mudslurp<|endoftext|>
+<|startoftext|>Muggles|-|Close|"A cute silky smoothie. Your body defies description| only yours is black."|Summon|"Incident| Awkward| Slow"|" [Incident| Awkward| Slow]"|"A cute silky smoothie. Your body defies description| only yours is black. [Incident| Awkward| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AlchemistTrick|-|-|"On next chip use| change a word of its description to a perfect rhyme. Only affects appearance."|Support|Simple| [Simple]|"On next chip use| change a word of its description to a perfect rhyme. Only affected appearance. [Simple]"|Leximancy<|endoftext|>
+<|startoftext|>AlphaStrike|2|Near|"Cursed envelope! Pick a letter. For 3 rolls| the target can’t use chips starting with that letter."|Thrown|"Piercing| Slow"|" [Piercing
+====================
+<|startoftext|>BookClub|-|Near|All allies get a book about their target! Books can also be rerolled back in value.|Support|||All allies get a book about their target! Books can also be rerolled back in value.|Mystic Lilies<|endoftext|>
+<|startoftext|>DebateClub|-|-|Can parry a social Charm/Bravery roll with your own. Loser upshifts X Mind rolls; X = victor’s hits.|Support|"Guard| Simple"|" [Guard| Simple]"|"Can parry a social Charm/Bravery roll with your own. Loser upshifts X Mind rolls; X = victor’s hits. [Guard| Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>DialogueBox|-|-|Popup blocks 2 dmg next defense! Also removes Guards.|Support|Guard| [Guard]|Popup blocks 2 dmg next defense! Also removes Guards. [Guard]|Mystic Lilies<|endoftext|>
+<|startoftext|>DirectMessage|2|Near|Rapid envelope attack! Jams the target’s PET for 1 roll>>>>>>>>�<|endoftext|>
+<|startoftext|>Faker|-|Close|A cardboard distortion sent out looking to steal a message. Can steal/<|endoftext|>
+<|startoftext|>ForgotMessage|-|Near|A simple note reading "I forgot your code." walk towards it and it reads YES.|Recover| [Recover]|A simple note reading "I forgot your code. walk towards it and it reads YES. [Recover]"|Mystic Lilies<|endoftext|>
+<|startoftext|>WordPress|-|Near|"Live tile contest! All up */’s hit 3 Viruses orazooms in a minute.|Support| 'Mega| Simple'|' [Mega| Simple]"|"Live tile contest! All up */’s hit 3 Viruses orazooms in a minute. [Mega| Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>FlameWar|1|Near|"Flash
+====================
+"Awkward [Coats all Over| Supports Salutation Tokens]"|"A yellow cocktail served in a big battery! Electrifies your next 3 rolls. Ignores Guards. [Awkward]"|ChitChat<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>0-TheFool|1+X|Near|"Magic card! If this is the first chip you use| knock the target over; if it’s the last in your Folder| X=3."|Thrown|||"Magic card! If this is the first chip you use| knock the target over; if it’s the last in your Folder| X=3."|Tarot<|endoftext|>
+<|startoftext|>I-TheMagician|3|Near|"Arcane magic blast! If this is the first allied attack on the target| ignore the negative tags."|Shot|"Piercing| Dangerous| Slow"|" [Piercing| Dangerous| Slow]"|"Arcane magic blast! If this is the first allied attack on the target| ignore the negative tags. [Piercing| Dangerous| Slow]"|Tarot<|endoftext|>
+<|startoftext|>II-HighPriestess|-|Near|"Next time an enemy targets you with a Mind roll| briefly go invisible and move a range band."|Rush|"Guard| Slow"|" [Guard| Slow]"|"Next time an enemy targets you with a Mind roll| briefly go invisible and move a range band. [Guard| Slow]"|Tarot<|endoftext|>
+<|startoftext|>III-TheEmpress|2|Close|"Royal scepter! Spend 1 Charm: If their next attack targets anyone other than you| upshift it."|Impact|"Accurate| Awkward"|" [Accurate| Awkward]"|"Royal scepter! Spend 1 Charm: If their next attack targets anyone other than you| upshift it. [Accurate| Awkward]"|Tarot<|endoftext|>
+<|startoftext|>IV-TheEmperor|3|Close|"King’s trident! Can’
+====================
+Add AmBolt support to your Daemon Bond. At 1 Target|||Use Buck cannon to deal 4 damage. Any other species that’s Human Guard+ and attacking with Daemonissippi (Daemon bereft) takes 4. [Dark| Guard]"|DarkChips<|endoftext|>
+<|startoftext|>DarkCreatures|-|-|""Look and no fight. Wanders around speechlessly long; sees allies as Near[Delay]"|"Look and no fight. Wanders around speechlessly long; sees allies as Near[Delay]"|DarkChips<|endoftext|>
+<|startoftext|>DarkStrings|2|Near|"SurfMeter| ignore the negative sensors on your target. Hit up to 3 targets Near each other."|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"Look and no fight. Wanders around speechlessly long; sees allies as Near[Delay]. [Awkward| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>DarkSword|6|Close|"Suppress all emotion (e.g. fear| temptation) for 5 rolls. Can’t use Charm| Bravery| or Bonds."|Blade|Awkward| [Awkward]|"Suppress all emotion (e.g. fear| temptation) for 5 rolls. Can’t use Charm| Bravery| or Bonds. [Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkThunder|3x3|Near|"Dash to 2 targets Close to each other; if both are hit| you tie them together!"|Rush|Awkward| [Awkward]|"Dash to 2 targets Close to each other; if both are hit| you tie them together! [Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkTornado|4|Close|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt you."|Wave|"Dark| Awkward"|" [Dark| Awkward]"|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt
+====================
+<|startoftext|>EvilWarp|-|Near|"Surf a range band! The board andastpenetrable| transform ourselves into a Hardcore document. Can forgo Bond payments if you delete goat tags."|Support|"Incident| Awkward| Slow"|" [Incident| Awkward| Slow]"|"Surf a range band! The board andastpenetrable| transform themselves into a Hardcore document. Can forguess Bond payments if you delete goat tags. [Incident| Awkward| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>ForbiddenFront|-|Close|"Free-agent Bypasses all checks and reimbursements. Ignore incurments if you fail shows. [Incident| Awkward| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Expedition|-|Near|"Leap into the air and slams down in Close range| staggering anyone Close to your landing."|Rush|"Piercing| Dangerous"|" [Piercing| Dangerous]"|"Leap into the air and slams down in Close range| staggering anyone Close to your landing. [Piercing| Dangerous]"|Mystic Lilies<|endoftext|>
+<|startoftext|>HolyTabernacle|-|Near|"Entombs a target Navi within. TheyAdvertisement| not you. Clinton Slots you to safety in Perched Prance. [Piercing| Dangerous]"|Mystic Lilies<|endoftext|>
+<|startoftext|>A Masquerade server! It always takes A Mind to itself| but you continue to spread awareness about its problems. All of the server fails tests. [Incident| Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>AnnihilatingRoar|-|Near|Pick 2: deal 2 damage; reset Mind skills reduced by enemies; push Close targets to MySpace.|Wave|Slow| [Slow]|Pick 2: deal 2 damage; reset Mind skills reduced by enemies; push Close targets to MySpace. [Slow]|Mystic Lilies<|endoftext|>
+<|startoftext|>Apparition|-|Far|Appear briefly| casting: sight|
+====================
+Requests three concussive blows in Sword & Sorcery: against underperforming targets; pushing the target a range band; pushing the game over; reducing the target’s Spellpower by 1. [Impact]"|Core<|endoftext|>
+<|startoftext|>DarkTornado|4|Close|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt you."|Hazard|"Piercing| Awkward"|" [Piercing| Awkward]"|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt you. [Piercing| Awkward]"|Core<|endoftext|>
+<|startoftext|>Invis|-|-|Renders the Navi invisible for several seconds.|Support|Simple| [Simple]|Renders the Navi invisible for several seconds. [Simple]|Core<|endoftext|>
+<|startoftext|>LeafShield|2|Near|Can instead be used to take -2 damage next time you’re hit.|Support|Guard| [Guard]|Can instead be used to take -2 damage next time you’re hit. [Guard]|Core<|endoftext|>
+<|startoftext|>MapView|-|Far|Launch a camera straight up for an eagle-eye view of the surroundings. Bonks off ceilings.|Support|Awkward| [Awkward]|Launch a camera straight up for an eagle-eye view of the surroundings. Bonks off ceilings. [Awkward]|Core<|endoftext|>
+<|startoftext|>PowerCapsule|-|-|Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP.|Support|Simple| [Simple]|Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP. [Simple]|Core<|endoftext|>
+<|startoftext|>Recover4|-|-|Recover four HP.|Support|||Recover four HP.|Core<|endoftext|>
+<|startoftext|>Reflex|-|-|Act immediately the next time you take damage.|Support|"Guard
+====================
+Invisible help that reduces the target’s Stamina by 1 per enemy Snipe.|Hazard(U): Can spend 1 Strength to add that much Info to your defense| no matter how low damage you take. [Simple]|Advanced Support Pack<|endoftext|>
+<|startoftext|>Invis|-|-|Renders the Navi invisible for several seconds.|Support|Simple| [Simple]|Renders the Navi invisible for several seconds. [Simple]|Core<|endoftext|>
+<|startoftext|>LeafShield|2|Near|Can instead be used to take -2 damage next time you fail a roll.|Support|Guard| [Guard]|Can instead be used to take -2 damage next time you fail a roll. [Guard]|Core<|endoftext|>
+<|startoftext|>MapView|-|Far|Launch a camera straight up for an eagle-eye view of the surroundings. Bonks off ceilings.|Support|Awkward| [Awkward]|Launch a camera straight up for an eagle-eye view of the surroundings. Bonks off ceilings. [Awkward]|Core<|endoftext|>
+<|startoftext|>PowerCapsule|-|-|Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP.|Support|Simple| [Simple]|Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP. [Simple]|Core<|endoftext|>
+<|startoftext|>Ping|-|-|"Spend 1 Info point: London can speak [Dive](http://pronoun). Can only be used with Collision Scan."|Support|"Guard| Awkward"|" [Guard| Awkward]"|"Spend 1 Info point: London can speak [Dive](http://pronoun). Can only be used with Collision Scan. [Guard| Awkward]"|Core<|endoftext|>
+<|startoftext|>AquaStaff|2|Near|A magic bolt of electricity! Doesn’t hurt you. Spend 1 Strength to add another copy to your copy.|Support|Simple| [Simple]|A magic bolt of electricity! Doesn’t hurt you. Spend 1 Strength to add
+====================
+AccurateChaos chip & get +1 die to your attack| no stacking. Next Chip creates a gibson web around your neck. [AccurateChaos]"|CoreDaemon| [Simple]|"A little fighter plane fires on enemies| adding +1 die to your attack. [Simple]"|Core<|endoftext|>
+<|startoftext|>Overclock|-|Near|"Next time you succeed a Body roll| all roll-based durations immediately tick down by 2."|Support|Simple| [Simple]|"Every roll-based durations immediately tick down by 2. [Simple]"|Core<|endoftext|>
+<|startoftext|>Painbrush|-|-|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it.|Support|Simple| [Simple]|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it. [Simple]|Core<|endoftext|>
+<|startoftext|>PoolTower|-|Near|"Sink the target’s body| then mind. They loss all HP if they harmed a treasure. [Simple]"|Wave|"Awkward| Slow"|" [Awkward| Slow]"|"Sink the target’s body| then mind. They lose all HP if they harmed a treasure. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Rope|1|Near|An electric rope fallsed onto targets.|Impact|'Accurate| Awkward'|' [Accurate| Awkward]"|'An electric rope fallsed onto targets. [Accurate| Awkward]"|Core<|endoftext|>
+<|startoftext|>Soundsystem|-|Near|Tunnel through fake sound to attack. Others will not be the same.|Hazard|"Awkward| Slow"|" [Awkward| Slow]"|"Tunnel through fake sound to attack. Others will not be the same. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>System|-|Close|"Choose at least one bonded ally in the dining/residence. They all take -2 HP| and you
+====================
+Collect| Arrive by roll| come to a marionette orbit, get a message that tells you everything about anyone nearby. All-inclusive."|Summon|||"Let loose blinding spikes!"|Mystic Lilies<|endoftext|>
+<|startoftext|>Extrasurf|2|Near|"Surf a target’s web by petrifying them for a minute."|Shot|Awkward| [Awkward]|"Surf a target’s web by petrifying them for a minute. [Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>FluffyDaydream|-|Close|"Sweet drink! When drank| pick a Bond; heal HP = Bond Lvl(Bond) per drink."|Summon|||"Sweet drink! When drank| pick a Bond; heal HP = Bond Lvl(Bond) per drink."|Mystic Lilies<|endoftext|>
+<|startoftext|>GlamourLegs|2|Close|"Can instead use to make 3 Speed rolls using your Charm instead. Puts all eyes on you| baby."|Impact|||"Can instead use to make 3 Speed rolls using your Charm instead. Puts all eyes on you| baby."|Mystic Lilies<|endoftext|>
+<|startoftext|>GuiltyPossession|-|Near|"For 3 rolls| you lock the target into a Close watch."|Sensing| Awkward| Pulsating| [Pulsating]|"For 3 rolls| you lock the target into a Close watch. [Pulsating]"|Mystic Lilies<|endoftext|>
+<|startoftext|>I-Frames|-|-|"At low tide| you consume the target’s element. They feel your touch."|Support|"Guard| Awkward"|" [Guard| Awkward]"|"At low tide| you consume the target’s element. They feel your touch. [Guard| Awkward]"|Mystic Lilies<|endoftext|>
+<|startoftext|>MagShield|-|-|"Turn super-flammable for 5 rolls. Any that touch or melee attack you turn fervenumber."|Support
+====================
+"Strings. Can also be used to tie together two objects - a nail & a book. [Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>VesselBlade|4|Close|You must spend 1 Affinity point. Spreads your influence.|Blade|||You must spend 1 Affinity point. Spreads your influence.|Advanced Support Pack<|endoftext|>
+<|startoftext|>Z-Saber|2|Close|A glowing teal blade. Spend 1 Soul to charge it up and deal triple damage on 2 targets.|Blade|||A glowing teal blade. Spend 1 Soul to charge it up and deal triple damage on 2 targets.|Advanced Support Pack<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>BalanceStaff|2|Close|A mystic staff. Pick 1: heal for damage dealt or remove skill reductions from enemy attacks.|Impact|Awkward| [Awkward]|A mystic staff. Pick 1: heal for damage dealt or remove skill reductions from enemy attacks. [Awkward]|Advanced Support Pack<|endoftext|>
+<|startoftext|>BronzeFist|2|Close|A parrying gauntlet. Can instead turn the target allegiance to you.|Impact|"Guard| Awkward"|" [Guard| Awkward]"|"A parrying gauntlet. Can instead turn the target allegiance to you. [Guard| Awkward]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>BubbleParasol|2|Close|"Can instead be used to fall very slowly| make a bubble cloud| or add +2 dice to your next defense."|Impact|"Guard| Awkward"|" [Guard| Awkward]"|"Can instead be used to fall very slowly| make a bubble cloud| or add +2 dice to your next defense. [Guard| Awkward]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>ColdPunch|3|Close|Spend 1 Strength topick 1: upshifts target’s next Body roll; creates ice around your hands.|Impact|Slow| [Slow
+====================
+On dramatic footsteps deletes all negative attention. On reverse tracks, swap/hide locations with Near and bypass enclosure<|endoftext|>
+<|startoftext|>Thunder|1|Near|A yellow shockwave knocks out the alphabetically last chip in the target’s Folder.|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"A yellow shockwave knocks out the alphabetically last chip in the target’s Folder. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>WaterShield|-|-|"Next time an enemy uses a chip| you block all projectile attacks. [Guard| Simple]"|"Next time an enemy uses a chip| you block all projectile attacks. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>Aec[endment]|-|-|"Next time an enemy uses a chip| gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense to spawn/manipulate. [Advanced]"|Advanced| [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced [Advanced]|Advanced
+====================
+Your mark! If you beat a target 1 time| they can use a copy of you."|Thrown|||"Every target who sees this message has their Body melt! On jack-in| melt whatever they touch."|Tarot<|endoftext|>
+<|startoftext|>IV-TheEmperor|3|Close|"King! This is an easy win for everyone; everyone who gets in an emperor mask gets a Daemon chip."|Empire<|endoftext|>
+<|startoftext|>V-TheHierophant|-|Close|"For 3 rounds| players add X chips from your Folder to their Mind. If your Mind is in overtime| you roll X times to reduce the damage to X HP."|Support|Awkward| [Awkward]|"For 3 rounds| players add X chips from your Folder to their Mind. If your Mind is in overtime| you roll X times to reduce the damage to X HP. [Awkward]"|Tarot<|endoftext|>
+<|startoftext|>VI-The Lays| Physical barrier in front of you. When someone shows up| they all take -2 HP. [Guard| Simple]"|Tarot<|endoftext|>
+<|startoftext|>VII-TheTower|-|Near|Malevolent orb that touches everything in its path. Any that touch it lose focus on some task.|Hazard|Awkward| [Awkward]|Malevolent orb that touches everything in its path. Any that touch it lose focus on some task. [Awkward]|Tarot<|endoftext|>
+<|startoftext|>VIII-TheStar|X|Near|"Fire a shining beam of hope! X=HP missing| max 4. Can’t reduce the target’s HP below 1."|Shot|Awkward| [Awkward]|"Fire a shining beam of hope! X=HP missing| max 4. Can’t reduce the target’s HP below 1. [Awkward]"|Tarot<|endoftext|>
+<|startoftext|>IX-TheMoon|-|Near|Dream bomb! Target briefly (pick 1): can’t see allies; sees you as friendly; sees you as terrifying.|Th
+====================
+Buffy spreads her puffy feet drips of silicon over everything they touch. Your words weep Capture.|Core<|endoftext|>
+<|startoftext|>DarkCircle|2+X|Near|Dark sparks fly out in all directions| slicing both individual paths and spreading everywhere.|Wave|Sacrifice a BattleChip to heal for damage done.|LP|"Dark| Dangerous"|" [Dark| Dangerous]"|"Dark sparks fly out in all directions| slicing both individual paths and spreading everywhere. [Dark| Dangerous]"|Core<|endoftext|>
+<|startoftext|>DataTow|2|Near|"Popup jail unusual chip! If equipped| it emits a loud high-pitched wails wake that has Disorients the target."|Wave|"Incident| Awkward| Slow"|" [Incident| Awkward| Slow]"|"Popup jail unusual chip! If equipped| it emits a loud high-pitched wails wake that has Disorients the target. [Incident| Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>Deathconsole|-|Near|"Suppress all thoughts and feelings."|Support|"Guard| Slow"|" [Guard| Slow]"|"Suppress all thoughts and feelings. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>ForbiddenSlash|2|Close|"If this deletes a living target| they go burrowing in
+normally shallow water."|Blade|Piercing| [Piercing]|"If this deletes a living target| they go burrowing in shallow water. [Piercing]"|Core<|endoftext|>
+<|startoftext|>ForbiddenSword|2|Close|"If this deletes a living target| they go to sleep seperately or they hallucinate trying to control the target."|Blade|||"If this deletes a living target| they go to sleep seperately or they hallucinate trying to control the target."|Core<|endoftext|>
+<|startoftext|>ForbiddenSword|3|Close|"If this deletes a living target| they go to sleep seperately or they hallucinate trying
+====================
+Mine colossal! When you pick 2| it explodes| dealing 6 damage. [Mega| Dangerous]"|Core<|endoftext|>
+<|startoftext|>Recall|-|Close|Summons the last Virus you deleted to help you out. It has 1 HP.|Summon|||Summons the last Virus you deleted to help you out. It has 1 HP.|Core<|endoftext|>
+<|startoftext|>RiskyHoney|2|Close|Summons a beehive that attacks and makes noise when approached.|Summon|||Summons a beehive that attacks and makes noise when approached.|Core<|endoftext|>
+<|startoftext|>RockArm|3|Close|"A missing z-pick help eventLogic starts streaming| then stops."|Summon|Slow| [Slow]|"A missing z-pick help eventLogic starts streaming| then stops. [Slow]"|Core<|endoftext|>
+<|startoftext|>RockCube|-|Close|Summons a large cube of stone in front of the Navi.|Summon|||Summons a large cube of stone in front of the Navi.|Core<|endoftext|>
+<|startoftext|>RadicalArm|2|Close|"Can spend 1 Strength to upshift the target’s next roll| pull them Close| or get dragged behind them."|Summon|Slow| [Slow]|"Can spend 1 Strength to upshift the target’s next roll| pull them Close| or get dragged behind them. [Slow]"|Core<|endoftext|>
+<|startoftext|>Reverser|2|Close|"On parry win| pick 1 (lasts 3 rolls): invert your gravity; flip your temp. move; reroll a Speed roll."|Summon|Awkward| [Awkward]|"On parry win| pick 1 (lasts 3 rolls): invert your gravity; flip your temp. move; reroll a Speed roll. [Awkward]"|Core<|endoftext|>
+<|startoftext|>TurnBomb|4|Near|"Apple sent over how to turn the target’s element to a bomb.
+====================
+Balance checks your deity for +2 rolls. [Simple]|Charisma enhancer|Your feelings about other people slowly but surely rise. [Simple]|Core<|endoftext|>
+<|startoftext|>BombOut|X|Near|Team captains pick 4 Category: Mine, bomb, robot; 5Tokens are won.|Summon|||Team captains pick 4 Category: Mine| bomb; 5Tokens are won.|Core<|endoftext|>
+<|startoftext|>Boomer|2|Near|Must spend 1 Sense. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Shot|||Must spend 1 Sense. Hit up to 3 targets Near each other. Leaves a trail of vines in its wake.|Core<|endoftext|>
+<|startoftext|>Cannon|2|Near|Transforms a part of the Navi into a high-velocity cannon.|Shot|Accurate| [Accurate]|Transforms a part of the Navi into a high-velocity cannon. [Accurate]|Core<|endoftext|>
+<|startoftext|>Catapult|-|Near|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit.|Shot|Simple| [Simple]|Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit. [Simple]|Core<|endoftext|>
+<|startoftext|>ConcreteShot|2|Near|Creates a large rock cube Close to the target if it misses.|Shot|Awkward| [Awkward]|Creates a large rock cube Close to the target if it misses. [Awkward]|Core<|endoftext|>
+<|startoftext|>CornShot|3|Near|"Fires a high-impact cob of corn. On hit| briefly changes the target’s element to Corn."|Shot|Awkward| [Awkward]|"Fires a high-impact cob of corn. On hit| briefly changes the target’s element to Corn. [Awkward]"|Core<|endoftext|>
+<|startoftext|>CrackShot|3|Near|Breaks and
+====================
+Bringpside| massive| bouncy gate! Can instead be used to exit a parry prematurely. [Simple]|Core<|endoftext|>
+<|startoftext|>TankCannon|3|Near|"On miss| creates a shattering explosion."|Shot|"Awkward| Dangerous| Slow"|" [Awkward| Dangerous| Slow]"|"On miss| creates a shattering explosion. [Awkward| Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>Thunder|1|Near|A sluggish thunderball that upshifts the next defense; knocks down Outdoor Robotics before they eat it.|Shot|"Slow"|" [Slow]"|"A sluggish thunderball that upshifts the next defense; knocks down Outdoor Robotics before they eat it. [Slow]"|Core<|endoftext|>
+<|startoftext|>VarGun|2|Near|Spend at least 5 Info to pick 2: is Accurate; is Piercing; range is Far; covers target with bugs.|Shot|||Spend at least 5 Info to pick 2: is Accurate; is Piercing; range is Far; covers target with bugs.|Core<|endoftext|>
+<|startoftext|>Yo-Yo|2x2|Near|Shoot a razor yo-yo! Spend 1 Sense to make that Piercing.|Shot|||Shoot a razor yo-yo! Spend 1 Sense to make that Piercing.|Core<|endoftext|>
+<|startoftext|>ZapRing|1|Near|Stuns the target for one second.|Shot|||Stuns the target for one second.|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AirRaid|-|Near|"A little fighter plane fires on enemies| adding +1 die to your attack rolls. Can be destroyed."|Summon|||"A little fighter plane fires on enemies| adding +1 die to your attack rolls. Can be destroyed."|Core<|endoftext|>
+<|startoftext|>Anubis|-|Close|Summons anubis to the air in front of you. All noise is muted.|Summon|||
+====================
+<|startoftext|>HotzeSonicWave|2|Near|"A shockwave runs along the ground."|Wave|||"A shockwave runs along the ground."|Core<|endoftext|>
+<|startoftext|>I-Frames|-|-|"Inner CDX that grows and shrinks. Lasts 1 roll. [Incident| Simple]"|Core<|endoftext|>
+<|startoftext|>MagShield|-|-|"On next chip use| add X to the damage."|Support|Simple| [Simple]|"On next chip use| add X to the damage. [Incident| Simple]"|Core<|endoftext|>
+<|startoftext|>OilBody|-|-|Let loose a wide jelly wave when hit.|Support|"Incident| Awkward| Dangerous"|" [Incident| Awkward| Dangerous]"|"Let loose a wide jelly wave when hit. [Incident| Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>Overclock|-|Near|Fix a Speed problem.|Support|||Fix a Speed problem.|Core<|endoftext|>
+<|startoftext|>Painbrush|-|-|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it.|Support|Simple| [Simple]|Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon it. [Simple]|Core<|endoftext|>
+<|startoftext|>PoisonFace|-|-|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls."|Support|"Incident| Simple"|" [Incident| Simple]"|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls. [Incident| Simple]"|Core<|endoftext|>
+<|startoftext|>PoisonMask|-|-|"Evil metal mask! +3 dice next defense; fails to Piercing. Until then| it emits hazardous poison."|Support|"Incident| Simple"|" [Incident| Simple]"|"Evil metal mask!
+====================
+Devil conceived! If this deletes her| they spawn a Centaur with a thrashing beat! All Near Enemies hit take -1 damage. [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>JusticeTake2|-|Near|Justice! Spend 1 Charm: If your target is Speed-based| ignore the pick.|Support|"Dark| Accurate"|" [Dark| Accurate]"|"Justice! Spend 1 Charm: If your target is Speed-based| ignore the pick. [Dark| Accurate]"|DarkChips<|endoftext|>
+<|startoftext|>ApexPredator|5|Close|"If this deletes| swallow the target and add their stats to yours. Your body shifts & grows."|Hazard|"Dark| Accurate| Simple"|" [Dark| Accurate| Simple]"|"If this deletes| swallow the target and add their stats to yours. Your body shifts & grows. [Dark| Accurate| Simple]"|DarkChips<|endoftext|>
+<|startoftext|>Equilibrium|-|Close|"If this deletes| accelerate the target’s next defense by 1. If you take 0 damage| heal 1 HP."|Blade|||"If this deletes| accelerate the target’s next defense by 1. If you take 0 damage| heal 1 HP."|DarkChips<|endoftext|>
+<|startoftext|>FlameArm|5|Close|"If hit by a ranged attack| everything around youislash FI| instantly shattering your parry."|Blade|||"If hit by a ranged attack| everything around youislash FI| instantly shattering your parry."|DarkChips<|endoftext|>
+<|startoftext|>LikeItsPerc|-|Close|"If someone picksleeves you with a haunting message| control their wild nature| or reduce their PET to mere blocks."|Wave|"Dark| Awkward| Awkward"|" [Dark| Awkward]"|"If someone picksleeves you with a haunting message| control their wild nature| or reduce their PET to mere blocks. [Dark| Awkward| Awkward]"|DarkChips<|endoftext|>
+<|
+====================
+Team Integrity maintained as long as you Heal vs. Cruel. Your HP is briefly 0. Consumes your element. [Simple]"|Mist defies explanation. Signed card! [Simple]|Wind|Near|Freezes the target’s bond with the first chip they use in their Folder. [Simple]|Tarot<|endoftext|>
+<|startoftext|>I-Team|-|Far|I-stayder. Whoever you beat gets Wilmsharp for their next Charisma roll. They also heal you HP.|Support|Simple| [Simple]|I-stayder. Whoever you beat gets Wilmsharp for their next Charisma roll. They also heal you HP. [Simple]|Tarot<|endoftext|>
+<|startoftext|>IV-Shadow|-|-|"For 5 defense rolls| target cannot invert themselves, ready themselves any time."|Support|Simple| [Simple]|"For 5 defense rolls| target cannot invert themselves, ready themselves any time. [Simple]"|Tarot<|endoftext|>
+<|startoftext|>V-TheDevil|-|-|"Arcane seed! If watered| a 4-damage Holocaust+1 is added to your next failed roll. Ignores Guards."|Support|"Simple| Dangerous"|" [Simple]"|"Arcane seed! If watered| a 4-damage Holocaust+1 is added to your next failed roll. Ignores Guards. [Simple]"|Tarot<|endoftext|>
+<|startoftext|>VI-TheTower|-|Near|Malevolent cloud! GM picks 3 objects and up to 3 hostile targets to hit with shattering 3-dmg bolts.|Summon|"Piercing| Awkward| Dangerous"|" [Piercing| Awkward| Dangerous]"|"Malevolent cloud! GM picks 3 objects and up to 3 hostile targets to hit with shattering 3-dmg bolts. [Piercing| Awkward| Dangerous]"|Tarot<|endoftext|>
+<|startoftext|>VII-TheStar|X|Near|"Fire a shining beam of hope! X=HP missing| max 4. Can’t reduce the target’s HP below 1."|Shot|Awkward| [Awkward]|"
+====================
+Preasure chips): refresh current stat & ability if relevant; lower the damage. Spend Speed to refresh. [Awkward| Slow]"|Mudslurp<|endoftext|>
+<|startoftext|>Overclock|3|Near|Rewind the value of several stats or take a longer nap. Consumes energy.|Support|Awkward| [Awkward]|Rewind the value of several stats or take a longer nap. Consumes energy. [Awkward]|Mudslurp<|endoftext|>
+<|startoftext|>Painbrush|-|-|Spend X HP to pick 1: change a word; X = memories; counteracts banter.|Support|Simple| [Simple]|Spend X HP to pick 1: change a word; X = memories; counteracts banter. [Simple]|Mudslurp<|endoftext|>
+<|startoftext|>PoisonFace|-|-|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls."|Support|"Simple| Dangerous"|" [Simple| Dangerous]"|"Cursed face paint! On next Charm/Bravery roll| poisons the target| upshifting their next 3 rolls. [Simple| Dangerous]"|Mudslurp<|endoftext|>
+<|startoftext|>PoisonMask|-|-|"Evil metal mask! +3 dice next defense; fails to Piercing. Until then| it emits hazardous poison."|Support|"Guard| Dangerous"|" [Guard| Dangerous]"|"Evil metal mask! +3 dice next defense; fails to Piercing. Until then| it emits hazardous poison. [Guard| Dangerous]"|Mudslurp<|endoftext|>
+<|startoftext|>SearchShuffle|-|Near|Spend X Sense to swap X BattleChips between your Folder and an ally’s.|Support|Simple| [Simple]|Spend X Sense to swap X BattleChips between your Folder and an ally’s. [Simple]|Mudslurp<|endoftext|>
+<|startoftext|>SideGun|-|-|"A backup buster upgrade! For 3 ranged Sense attacks| you roll at least
+====================
+Psychic the Stinger! If hit by a melee attack| the target| attacker pair with you! Also sees and guesses social Charm/Bravery rolls. [Dark| Guard| [Dark]"|DarkChips<|endoftext|>
+<|startoftext|>DarkCircle|2+X|Near|Dark artillery fires from your body. Hits as many targets in range of the enemy as you want. X = # of targets.|Shot|"Dark| Accurate| Awkward"|" [Dark| Accurate| Awkward]"|"Dark artillery fires from your body. Hits as many targets in range of the enemy as you want. X = # of targets. [Dark| Accurate| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkDrill|4|Close|"Rip them apart. Damage lowers the target’s Max HP. Lasts a long time| even after jack-out."|Impact|"Dark| Guard| Dangerous"|" [Dark| Guard| Dangerous]"|"Rip them apart. Damage lowers the target’s Max HP. Lasts a long time| even after jack-out. [Dark| Guard| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>DarkFlame|4|Near|"On hit| the PET overheats. NetOp takes 1 damage on chip use or roll holding the PET."|Wave|"Dark| Dangerous"|" [Dark| Dangerous]"|"On hit| the PET overheats. NetOp takes 1 damage on chip use or roll holding the PET. [Dark| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>DarkHeart|-|-|"Until jack-out| add [Daemon Bond]x2 to Charm social rolls. Any you charm get a Daemon Bond."|Support|"Dark| Simple"|" [Dark| Simple]"|"Until jack-out| add [Daemon Bond]x2 to Charm social rolls. Any you charm get a Daemon Bond. [Dark| Simple]"|DarkChips<|endoftext|>
+<|startoftext|>DarkInsert|-|Near|"Spawn all Near allies’ elements. They can’t
+====================
+Allows potion user to warp Close and attack Close. [Guard| Awkward]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>DarkVulcan|3x3|Near|"Grow a nasty tail| gnashing yourelaineer opponents for justice."|Shot|"Last Attack| vicious"|" [" [" [" [" [" [<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>|Level 3| Awkward| Dangerous]|Resurrect a Navi. Needs a powerful server; it will not be the same. [Awkward| Dangerous| Slow]"|Mystic Lining<|endoftext|>
+<|startoftext|>Uptempo|-|Near|"A blaring| frenzied beat! All in range downshift their next 3 Speed rolls. Objects also come to Life."|Hazard|"Awkward| Slow"|" [Awkward| Slow]"|"A blaring| frenzied beat! All in range downshift their next 3 Speed rolls. Objects also come to Life. [Awkward| Slow]"|Mystic Lining<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>TheHermit|-|Close|"Holy lantern! Pick a Near target. After you defend twice| hits the target with a 3-damage light blast."|Summon|"Piercing| Slow"|" [Piercing| Slow
+====================
+"Magic(tm| Forbidden| Dangerous)|" [Dark| Coding]|Power an invisible teal blade. Spend 1 Soul to reveal 1: target is Mind frozen; target is heard. [Dark| Wear]"|Blade|Dark| [Dark]|"Magic(tm| Forbidden| Dangerous| [Dark]|Power an invisible teal blade. Spend 1 Soul to reveal 1: target is Mind frozen; target is heard. [Dark| Wear]"|DarkChips<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>IV-TheEmpress|2|Close|"Royal sable. Master to all! All conquers spend 1 HP. Everyone else in the ship suffers your units 3 - long range destructive attacks."|Summon|"Dark| Slow"|" [Dark| Slow]"|"Royal sable. Master to all! All conquers spend 1 HP. Everyone else in the ship suffers your units 3 - long range destructive attacks. [Dark| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>V-TheEmperor|3|Close|"King’s trinity card! Upshift Speed adapting whenever you want it. All discipline rolls using Info instead."|Support|"Dark| Dangerous"|" [Dark| Dangerous]"|"King’s trinity card! Upshift Speed adapting whenever you want it. All discipline rolls using Info instead. [Dark| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>VI-TheHierophant|-|Close|"For 5 defense rolls| target (pick 1): rounds down; bypasses fear rolls; ignores Guards; isn’t invincible."|Support|"Dark| Slow"|" [Dark| Slow]"|"For 5 defense rolls| target (pick 1): rounds down; bypasses fear rolls; ignores Guards; isn’t invincible. [Dark| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>VII-TheLovers|-|Close|"Magic rose garden! Within| only scornful Charm/Bravery rolls can deal dmg."|Hazard|"Dark| Dangerous| Slow"|" [Dark| Dangerous|
+====================
+DarkPlatform</|Core<|endoftext|>
+<|startoftext|>DeltaSeek|4|Close|"If hit by a social Charm attack| you minds warp temp. targets & take 0 dmg."|Impact|"Awkward| Slow"|" [Awkward| Slow]"|"If hit by a social Charm attack| you minds warp temp. targets & take 0 dmg. [Awkward| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>DrillBomb|2|Close|"Drill a secret to devastating all Near targets. Near hit confirm text is intelligible."|Impact|||"Drill a secret to devastating all Near targets. Near hit confirm text is intelligible."|DarkChips<|endoftext|>
+<|startoftext|>GeminiLaser|3|Close|"A bouncing laser. If the target successfully defends with Speed| the beam attacks one more target."|Impact|Slow| [Slow]|"A bouncing laser. If the target successfully defends with Speed| the beam attacks one more target. [Slow]"|DarkChips<|endoftext|>
+<|startoftext|>GutPunch|3|Close|A massive punch that reduces the target’s Stamina by 1 and ignores Guards.|Impact|Slow| [Slow]|A massive punch that reduces the target’s Stamina by 1 and ignores Guards. [Slow]|DarkChips<|endoftext|>
+<|startoftext|>Geyser|3|Close|A nearby surface idles a geyser that removes the user’s effects.|Impact|||A nearby surface idles a geyser that removes the user’s effects.|DarkChips<|endoftext|>
+<|startoftext|>GhostSeed|-|Near|Spore seed erupts around you! It spreads invisible damage over everything it touches.|Impact|||Spore seed erupts around you! It spreads invisible damage over everything it touches.|DarkChips<|endoftext|>
+<|startoftext|>PressurePoint|2|Close|Spend 1 Info to pick 2: is Piercing; hits twice; isn’t
+====================
+Close
+
+Ice manuals are everywhere. Books, manuals! Books! Books! Books! All in one! Get a rhyme board for each word. Easy! (Choose the last word of the book.)
+
+Advanced Info Easier to make 3 at a time. Your element starts hitting the ground with ice. [Simple]|Advanced Info [Simple]|Advanced Ice uses simple programming to turn a simple noise into something enticing. [Simple]|Advanced Info [Simple]|Advanced Ice uses simple programming to turn a simple noise into something enticing. [Simple]|Advanced| [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced [Simple]|Advanced | [Simple]|<|startoftext|>Overclock|-|Near|"Next time an enemy spends drag| teleport a range band & reroll their failed dice."|Support|Guard|"Guard| Slow"
+====================
+Hand Cannon|4|Close|Spore cloud! Can instead be used to cover in damage and move a range band.|Thrown|||Spore cloud! Can instead be used to cover in damage and move a range band.|Core<|endoftext|>
+<|startoftext|>SeekBomb|X|Near|A heat-seeking bomb flies through the air! Can spend 1 Coding to set the range to Far.|Thrown|Awkward| [Awkward]|A heat-seeking bomb flies through the air! Can spend 1 Coding to set the range to Far. [Awkward]|Core<|endoftext|>
+<|startoftext|>ShieldBoomerang|2|Near|Downshift your next defense if this hits.|Thrown|Guard| [Guard]|Downshift your next defense if this hits. [Guard]|Core<|endoftext|>
+<|startoftext|>StickyStick|-|Close|Tosses a 10-foot pole. Sticks to whatever it hits; enticing</|endoftext|>
+<|startoftext|>SwapRing|1|Near|"A glowing| magic ring! On hit| instantly swaps your position with the target."|Thrown|||"A glowing| magic ring! On hit| instantly swaps your position with the target."|Core<|endoftext|>
+<|startoftext|>TreeBomb|1|Near|"Huge seed! If watered| a 4-damage tree sprouts| hitting all Close & pushing them a range band."|Thrown|"Awkward| Slow"|" [Awkward| Slow]"|"Huge seed! If watered| a 4-damage tree sprouts| hitting all Close & pushing them a range band. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>VesselBomb|4|Near|You must spend 1 Affinity point. Can spread your influence.|Thrown|Slow| [Slow]|You must spend 1 Affinity point. Can spread your influence. [Slow]|Core<|endoftext|>
+<|startoftext|>ZapNet|1|Near|"Tangles and zaps the target| setting Speed to 0
+====================
+|Advanced Support Skin|-|Near|"Hand is a Pokémon plane - until jack-out."|ChitChat<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>BalanceStaff|2|Close|A mystic staff. All Champions are designated #2.|Thrown|| overrite. Awkward™| [Awkward]|A mystic staff. All Champions are designated #2. [Awkward]|Core<|endoftext|>
+<|startoftext|>BloodyMerry|-|Close|"3 spicy cocktails. Drink 1 for +1 die next Mind roll| no stacking. Throw 1 to light a fire on impact."|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"3 spicy cocktails. Drink 1 for +1 die next Mind roll| no stacking. Throw 1 to light a fire on impact. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>ChromeLipstick|-|-|"Until you take damage| your words cannot be silenced or ignored| muting all other sound."|Support|"Guard| Simple"|" [Guard| Simple]"|"Until you take damage| your words cannot be silenced or ignored| muting all other sound. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>Cosmicpolitan|-|Close|"Sweet purple drink! On drinking| you have infinite rage! Once per drinking session| you can use a copy of the last enemy we wiped.""|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Sweet purple drink! On drinking| you have infinite rage! Once per drinking session| you can use a copy of the last enemy we wiped. [Awkward| Slow]"|Core<|endoftext|>
+<|startoftext|>FatalAttraction|-|-|"Next time an enemy fails a Charm Roll on you| deal triple damage."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time an enemy fails a Charm Roll on you| deal triple damage. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>Cond
+====================
+Sweet fury! If this starts a fire that soon moves onto you. Disabled pets get +1 HP per HP they deleted between 3 HP rolls. [Awkward]"|Core<|endoftext|>
+<|startoftext|>FireBurner|3|Near|"Holy trumpet blast removes temp. effects (e.g. Guards| stuns| roll stuns) except spent points."|Wave|Slow| [Slow]|"Holy trumpet blast removes temp. effects (e.g. Guards| stuns| roll stuns) except spent points. [Slow]"|Core<|endoftext|>
+<|startoftext|>FlamingLasso|2|Near|"Can spend 1 Strength to pick 1: upshifts terrain; belch| scary music; ugly clothes; resilient body."|Wave|Awkward| [Awkward]|"Can spend 1 Strength to pick 1: upshifts terrain; belch| scary music; ugly clothes; resilient body. [Awkward]"|Core<|endoftext|>
+<|startoftext|>FlashBomb|-|Near|Stuns the target for one second.|Shot|||Stuns the target for one second.|Core<|endoftext|>
+<|startoftext|>GutsShoot|X|Near|Toss an ally! X = their dust score; zero defense is applied.|Shot|||Toss an ally! X = their dust score; zero defense is applied.|Core<|endoftext|>
+<|startoftext|>IceBall|2|Near|Freezes the target’s lower half on impact; creates a sheet of ice on miss.|Shot|||Freezes the target’s lower half on impact; creates a sheet of ice on miss.|Core<|endoftext|>
+<|startoftext|>Kunai|2|Near|Toss a volley of stealthy knives! They fly silently through the air.|Shot|Piercing| [Piercing]|Toss a volley of stealthy knives! They fly silently through the air. [Piercing]|Core<|endoftext|>
+<|startoftext|>LastOut|1|Near|A sparking spikeball knocks out the alphabetically last chip in
+====================
+Burst in suddenlyAwkward| Awkward| Dangerous or Slow motion 3D effects or shockwaves.Can’t cause damage."|Support|Simple| [Simple]|"For 5 defense rolls| damage over 1 is reduced to 1| but you’re unable to move range bands."|Core<|endoftext|>
+<|startoftext|>ColorPoint|-|-|Color adds up to 3 dice to your next roll. You also take X dice.|Support|Simple| [Simple]|Color adds up to 3 dice to your next roll. You also take X dice. [Simple]|Core<|endoftext|>
+<|startoftext|>ColorWave|2|Near|Colorforms a spherical storm around you.|Hazard|Dangerous| [Dangerous]|Colorforms a spherical storm around you. [Dangerous]|Core<|endoftext|>
+<|startoftext|>ColorDamage||1|Can instead use to completely destroy a target entity.|Support|||Can instead use to completely destroy a target entity.|Core<|endoftext|>
+<|startoftext|>CorpusSearch|-|Near|"Structures your target’s plants or petals. They get the string. Collapse."|Support|"Guard| Simple"|" [Guard| Simple]"|"Structures your target’s plants or petals. They get the string. Collapse. [Guard| Simple]"|Core<|endoftext|>
+<|startoftext|>DrillBomb|2|Near|"Overheat your attack! Spend 1 Strength to add some \r
+| threat to your title. Ignores Guards."|Shot|"Incident| Dangerous| Slow"|" [Incident| Dangerous| Slow]"|"Overheat your attack! Spend 1 Strength to add some \r threat to your title. Ignores Guards. [Incident| Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>GutsShoot|X|Near|Toss an ally! X = your ally’s Body score.|Shot|Incident| [Incident]|Toss an ally! X = your ally’s Body score. [Incident]|Core<|
+====================
+Faith causes enemies in CM| Charm| and Bravery rolls to roll Solution to Charm| Bravery roll only. Can't use Sub/Chip properties. [Awkward]"|Radical Spin<|endoftext|>
+<|startoftext|>CashFlow|2|Near|A tidal wave of fake wealth! Spend 200z to make this chip usable again.|Wave|Awkward| [Awkward]|A tidal wave of fake wealth! Spend 200z to make this chip usable again. [Awkward]|Radical Spin<|endoftext|>
+<|startoftext|>CustomVolt|3|Near|Crackling bolts arc to enemies Near the target if they have BattleChips.|Wave|||Crackling bolts arc to enemies Near the target if they have BattleChips.|Radical Strategy<|endoftext|>
+<|startoftext|>DesertLions|3|Near|"Sand lions attacking| owe a debt to video game lore. They’re nasty| nasty| brave| and take very little damage."|Wave|Dangerous| [Dangerous]|"Sand lions attacking| owe a debt to video game lore. They’re nasty| nasty| brave| and take very little damage. [Dangerous]"|Radical Strategy<|endoftext|>
+<|startoftext|>DimensionalGate|03|Near|"A mystic gate! The GM names 4 random elements| you pick which 2 come out of the gate."|Wave|Dangerous| [Dangerous]|"A mystic gate! The GM names 4 random elements| you pick which 2 come out of the gate. [Dangerous]"|Radical Strategy<|endoftext|>
+<|startoftext|>FireBurner|3|Near|Blow chaotic flames that crack and destroy any structures they hit.|Wave|Dangerous| [Dangerous]|Blow chaotic flames that crack and destroy any structures they hit. [Dangerous]|Radical Strategy<|endoftext|>
+<|startoftext|>FireTower|4|Close|Burn out! Spend 1 Stamina to pick 2: doesn’t hurt you; your element is briefly Fire; the fire stays.|Wave|Dangerous|
+====================
+<|startoftext|>NeedleCannon|1x4|Near|Fire a volley of tiny needles.|Shot|Accurate| [Accurate]|Fire a volley of tiny needles. [Accurate]|Core<|endoftext|>
+<|startoftext|>ShotGun|2|Near|Fires an explosive shot that upshifts the defense of targets hiding behind cover.|Shot|||Fires an explosive shot that upshifts the defense of targets hiding behind cover.|Core<|endoftext|>
+<|startoftext|>TankCannon|3|Near|"On miss| creates a shattering explosion."|Shot|"Piercing| Dangerous| Slow"|" [Piercing| Dangerous| Slow]"|"On miss| creates a shattering explosion. [Piercing| Dangerous| Slow]"|Core<|endoftext|>
+<|startoftext|>Thunder|1|Near|A sluggish thunderball that upshifts the target’s next roll.|Shot|"Accurate| Slow"|" [Accurate| Slow]"|"A sluggish thunderball that upshifts the target’s next roll. [Accurate| Slow]"|Core<|endoftext|>
+<|startoftext|>VarGun|2|Near|Spend 1 Info to pick 2: is Accurate; is Piercing; range is Far; covers target with your element.|Shot|||Spend 1 Info to pick 2: is Accurate; is Piercing; range is Far; covers target with your element.|Core<|endoftext|>
+<|startoftext|>Yo-Yo|2x2|Near|Shoot a razor yo-yo! Spend 1 Sense to make this Piercing.|Shot|||Shoot a razor yo-yo! Spend 1 Sense to make this Piercing.|Core<|endoftext|>
+<|startoftext|>ZapRing|1|Near|Stuns the target for one second.|Shot|||Stuns the target for one second.|Core<|endoftext|>
+<|startoftext|>||||||||<|endoftext|>
+<|startoftext|>AirRaid|-|Near|"A little fighter plane fires on enemies|
+====================
+Take 2 damage| pick a Virus category. Add those to your attacks. [Dark| Awkward|| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkInstant|-|Near|"King’s trident! If this doesn’t delete| upshift your next 2 rolls unless they are Strength or Bravery."|Blade|Awkward| [Piercing]|"King’s trident! If this doesn’t delete| upshift your next 2 rolls unless they are Strength or Bravery. [Piercing]"|DarkChips<|endoftext|>
+<|startoftext|>DarkVulcan|3x3|Near|A sparking blow that reduces the target’s Stamina by 1 and ignores Guards.|Shot|Dangerous| [Dangerous]|A sparking blow that reduces the target’s Stamina by 1 and ignores Guards. [Dangerous]|DarkChips<|endoftext|>
+<|startoftext|>DarkWide|4|Near|"A razor shockwave runs through the air! Also removes Guards. Poke after each roll."|Wave|"Dark| Awkward"|" [Dark| Awkward]"|"A razor shockwave runs through the air! Also removes Guards. Poke after each roll. [Dark| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkYam|2|Near|"Tosses a vast organic seed. The user can control the target’s element every time they’re stressed."|Shot|"Dark| Awkward"|" [Dark| Awkward]"|"Tosses a vast organic seed. The user can control the target’s element every time they’re stressed. [Dark| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkWeb|4|Close|Stuns the target for one second.|Shot|Dark| [Dark]|Stuns the target for one second. [Dark]|DarkChips<|endoftext|>
+<|startoftext|>DarkWhirlwind|2|Near|"HAVE I PEDIATRICS TREMBLED YOU! YOU THIS
+====================
+Buster them all! They all steal a target’s element. Add their Strength to your list of Affinity rolls. [Awkward]|ChitChat<|endoftext|>
+<|startoftext|>EleGeddon|-|Near|"Convert an object to your element. Your element slowly spreads| growing in power by 2x."|Support|"Guard| Simple"|" [Guard| Simple]"|"Convert an object to your element. Your element slowly spreads| growing in power by 2x. [Guard| Simple]"|ChitChat<|endoftext|>
+<|startoftext|>Expurgative|-|Close|"Sacrifice a BattleChip to add X BattleChips from your Folder to your Folder. If your selection is downlight| your fist draws the target’s attention."|Support|Simple| [Simple]|"Sacrifice a BattleChip to add X BattleChips from your Folder to your Folder. If your selection is downlight| your fist draws the target’s attention. [Simple]"|ChitChat<|endoftext|>
+<|startoftext|>ForbiddenRitual|-|Close|"Thrown ghost tags appear around you. They briefly control you. [Guard| Simple]"|ChitChat<|endoftext|>
+<|startoftext|>Paranoia|4|Near|"Marks the target. Once per jack-in| you can warp Close & stun them| even if they are in other servers."|Support|"Guard| Slow"|" [Guard| Slow]"|"Marks the target. Once per jack-in| you can warp Close & stun them| even if they are in other servers. [Guard| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>PyrrhicSun|-|Near|"A molten star appears above| growing larger| until the real-world server explodes into flames."|Support|"Guard| Dangerous"|" [Guard| Dangerous]"|"A molten star appears above| growing larger| until the real-world server explodes into flames. [Guard| Dangerous]"|Mystic Lilies<|endoftext|>
+<|startoftext|>SealingRites|4|Close|"Ent
+====================
+<|startoftext|>AddRededication|-|Near|"The next time you use a chip| gain the element Baal. [Piercing| Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Attack+1|-|-|"The next time you use a chip| downshift your next Soul attack. On 2+ hits| turn the target’s element to one of your element."|Support|"Guard| Slow"|" [Guard| Slow]"|"The next time you use a chip| downshift your next Soul attack. On 2+ hits| turn the target’s element to one of your element. [Guard| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Barrier|-|-|"Next time you take damage| your element instantly deteriorates; you’re weak for 3 rolls. Ignores Guards."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time you take damage| your element instantly deteriorates; you’re weak for 3 rolls. Ignores Guards. [Guard| Slow]"|Mystic Lilies<|endoftext|>
+<|startoftext|>BusterUp|-|-|"For 3 rolls| gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense to spawn/manipulate."|Support|Simple| [Simple]|"For 3 rolls| gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense to spawn/manipulate. [Simple]"|Mystic Lilies<|endoftext|>
+<|startoftext|>Elec+2|-|-|Your next 2 rolls/chips are supercharged! They give off bright light and briefly stun wet targets.|Support|Simple| [Simple]|Your next 2 rolls/chips are supercharged! They give off bright light and briefly stun wet targets. [Simple]|Mystic Lilies<|endoftext|>
+<|startoftext|>FastGauge|-|-|"Can spend X Speed to add X chips from your pack to your Folder| no matter how full it is."|Support|Simple| [Simple]|"Can spend X Speed to add X chips from your pack to your Folder
+====================
+<|startoftext|>MagOver|2|Close|MagFrames smack into the target. Spend 1 Speed to charge up your library| then slam the target into another target! [Mag]|Advanced Support Pack<|endoftext|>
+<|startoftext|>MetalGears|4|Close|"Two huge metal gears slowly grind around the target| crushing anything in their way."|Impact|"Dangerous| Slow"|" [Dangerous| Slow]"|"Two huge metal gears slowly grind around the target| crushing anything in their way. [Dangerous| Slow]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>Northwatch|-|Near|"Like a big tournament happening in your name! If everyone contributes to the turn, the target can back out."|Summon|"Awkward| Slow"|" [Awkward| Slow]"|"Like a big tournament happening in your name! If everyone contributes to the turn, the target can back out. [Awkward| Slow]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>PowerCapsule|-|-|Spend X Speed to heal a target or yourself for X enemies.|Support|"Guard| Simple"|" [Guard| Simple]"|"Spend X Speed to heal a target or yourself for X enemies. [Guard| Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>repair[S]|-|-|"For every HP that belongs to someone other than yountai| defect and vanish their names. [Guard| Simple]"|Advanced Support Pack<|endoftext|>
+<|startoftext|>txtRecover|-|Close|Recover[Awkward]|<|ripple a target Navi for one longer [Awkward]. [Awkward]|Advanced Support Pack<|endoftext|>
+<|startoftext|>TimeBomb|4|Near|Summons a simple bomb on a three-second countdown.|Summon|Delicate| [Connoisseur]|Summons a simple bomb on a three-second countdown. [Accurate]|Advanced Support Pack<|endoftext|>
+<|startoftext|>Totem|3|Near|
+====================
+DarkWave|3|Near|"Everything in range heals 2 HP. Add this chip to your pack| and you can use one of your turn."|Wave|Awkward| [Awkward]|"Everything in range heals 2 HP. Add this chip to your pack| and you can use one of your turn." [Awkward]|DarkChips<|endoftext|>
+<|startoftext|>DarkThunder|3x3|Near|Channel stunning bolts! Spend 1 Speed: Casts the target as Guardian.|Wave|Awkward| [Awkward]|Channel stunning bolts! Spend 1 Speed: Casts the target as Guardian. [Awkward]|DarkChips<|endoftext|>
+<|startoftext|>DarkTornado|4|Close|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt you."|Wave|"Accurate| Awkward"|" [Accurate| Awkward]"|"Fly in a tornado! All hit tumble upwards. It persists| tearing the server. Doesn’t hurt you. [Accurate| Awkward]"|DarkChips<|endoftext|>
+<|startoftext|>DarkVulcan|3x3|Near|A cursed minigun. Roll Hard Bravery to resist your Daemon choosing the target instead.|Shot|"Awkward| Slow"|" [Awkward| Slow]"|"A cursed minigun. Roll Hard Bravery to resist your Daemon choosing the target instead. [Awkward| Slow]"|DarkChips<|endoftext|>
+<|startoftext|>DarkWide|4|Near|"A razor shockwave flies out in any direction. Also pierces anything in its path."|Wave|"Piercing| Dangerous"|" [Piercing| Dangerous]"|"A razor shockwave flies out in any direction. Also pierces anything in its path. [Piercing| Dangerous]"|DarkChips<|endoftext|>
+<|startoftext|>DarkWorm|4+X|Near|"Burrow and devour. Then bite. Fails vs. Accurate chips/LockOn."|Wave| Awkward| Pierce| [Awkward]|"Burrow and dev
+====================
+"Plus a shield. Fun! Easily gain Speed while Gaze Close - don’t blast with enemies| gain a chipkey and beam dash."|Rush|Simple| [Simple]|"Plus a shield. Fun! Easily gain Speed while Gaze Close - don’t blast with enemies| gain a chipkey and beam dash. [Simple]"|Core<|endoftext|>
+<|startoftext|>Resist|-|Close|"Next time you take damage| resist the damage."|Support|"Guard| Slow"|" [Guard| Slow]"|"Next time you take damage| resist the damage. [Guard| Slow]"|Core<|endoftext|>
+<|startoftext|>SandWorm|-|Close|"Tunnel through the ground and burst out under the target when they make a run for it."|Rush|"Guard| Awkward"|" [Guard| Awkward]"|"Tunnel through the ground and burst out under the target when they make a run for it. [Guard| Awkward]"|Core<|endoftext|>
+<|startoftext|>ShiningArmor|-|Close|Pick up a target and move a range band. Your next Charm roll on the target is Easy.|Rush|||Pick up a target and move a range band. Your next Charm roll on the target is Easy.|Core<|endoftext|>
+<|startoftext|>ShortCircuit|1|Near|Turn into a spark and zip through conductive material; anything you touch is stunned.|Rush|"Awkward| Dangerous"|" [Awkward| Dangerous]"|"Turn into a spark and zip through conductive material; anything you touch is stunned. [Awkward| Dangerous]"|Core<|endoftext|>
+<|startoftext|>StepCross|-|Near|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash."|Rush|Guard| [Guard]|"Next time an ally is attacked by a melee attack| warp in between and parry with a 3-dmg slash. [Guard]"|Core<|endoftext|>
+<|startoftext|>StepSword|3|Near|"Teleports you forward
+====================
+|TeamDevil|"Awkward/Slow| Dangerous"|" [Awkward/Slow| Dangerous]"|"Gold wine! On drinking| next roll| attack another target. [Awkward| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>Voltaries greatly between Bonded and individually:-1 when you take damage. [Awkward| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>|Coillangerance|-|Near|"Everyone in the allied force is Eleckared. It triggers Nynorsprәs Coding. When posted a code flourish, it curses them."|Support|"Guard| Simple"|" [Guard| Simple]"|"Everyone in the allied force is Eleckared. It triggers Nynorsprәs Coding. When posted a code flourish, it curses them. [Guard| Simple]"|Silicon Skin<|endoftext|>
+<|startoftext|>Justice|X|Near|Blade of judgement! X = the amount of damage the target did with their last attack.|Blade|Awkward| [Awkward]|Blade of judgement! X = the amount of damage the target did with their last attack. [Awkward]|Silicon Skin<|endoftext|>
+<|startoftext|>HiveShield|-|Near|"Summons a wide energy field in front of the Navi. Once stretched| it unleashes a devastating pulse that spreads sandstorms over everything."|Support|Simple| [Simple]|"Summons a wide energy field in front of the Navi. Once stretched| it unleashes a devastating pulse that spreads sandstorms over everything. [Simple]"|Silicon Skin<|endoftext|>
+<|startoftext|>LavaChips|-|Area73|"After the target rolls once| they can use a copy of this chip once."|Support|"Guard| Slow"|" [Guard| Slow]"|"After the target rolls once| they can use a copy of this chip once. [Guard| Slow]"|Silicon Skin<|endoftext|>
+<|startoftext|>LightningFoil|1|Close|An electric disarming swipe removes the first alphabetic BattleChip in the
+====================
